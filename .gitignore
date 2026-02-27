@@ -1,0 +1,19 @@
+# Node & Next.js
+node_modules/
+.next/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+medagent.db
+
+# Environment variables
+.env
+.env.local
+
+# AI/Temp folders
+.empromptu/
