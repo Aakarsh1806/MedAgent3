@@ -6,6 +6,8 @@ import EscalationPanel from '../components/alerts/EscalationPanel';
 import { useApp } from '../context/AppContext';
 import { useDoctor } from '../context/DoctorContext';
 import { usePatient } from '../context/PatientContext';
+import { useRouter } from 'next/router';
+import { useEffect, useState } from 'react';
 
 // Why changed: replaced the inline Sidebar + Header + Head shell with the shared
 // PageLayout wrapper (spec Â§5). The dashboard content itself is unchanged.
@@ -14,8 +16,22 @@ export default function Dashboard() {
   const { kpi } = useApp();
   const { patients } = usePatient();
   const { selectedDoctor } = useDoctor();
+  const router = useRouter();
+  const [isReady, setIsReady] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      if (!selectedDoctor) {
+        router.replace('/select-doctor');
+      } else {
+        setIsReady(true);
+      }
+    }
+  }, [selectedDoctor, router]);
 
   // ensure kpi.totalPatients remains accurate (AppContext syncs via effect)
+
+  if (!isReady || !selectedDoctor) return null; // Avoid rendering before redirect
 
   return (
     <PageLayout title="Dashboard">

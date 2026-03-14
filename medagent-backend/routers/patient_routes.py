@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session, joinedload
 from database.db import get_db
-from database.models import Patient, Doctor
+from database.models import Patient, Doctor, Surgery, SurgeryReport
 from typing import Optional
 
 router = APIRouter(prefix="/patients", tags=["patients"])
@@ -142,6 +142,83 @@ def get_patient(patient_id: int, db: Session = Depends(get_db)):
             }
             for m in patient.medications
         ],
+    }
+
+
+# -----------------------------
+# GET: Full Medical Report (with auto-create SurgeryReport)
+# -----------------------------
+@router.get("/{patient_id}/full-medical-report")
+def get_full_medical_report(patient_id: int, db: Session = Depends(get_db)):
+    patient = (
+        db.query(Patient)
+        .options(
+            joinedload(Patient.medications),
+            joinedload(Patient.surgeries),
+            joinedload(Patient.surgery_report),
+        )
+        .filter(Patient.id == patient_id)
+        .first()
+    )
+
+    if not patient:
+        raise HTTPException(status_code=404, detail="Patient not found")
+
+    # Auto-create SurgeryReport if it doesn't exist
+    if not patient.surgery_report:
+        new_report = SurgeryReport(
+            patient_id=patient.id,
+            medical_problem="Pending Medical Evaluation",
+            symptoms="None recorded",
+            report_summary="No previous surgery reports available. Auto-generated record.",
+            complications="None expected.",
+            recovery_plan="Standard monitoring.",
+        )
+        db.add(new_report)
+        db.commit()
+        db.refresh(new_report)
+        
+        # We need to refresh the patient to include the newly created report or assign it to the response object.
+        # Assigning it directly to avoid another DB query:
+        patient.surgery_report = new_report
+
+    # Prepare response payload
+    return {
+        "patient_info": {
+            "id": patient.id,
+            "name": patient.name,
+            "age": patient.age,
+            "gender": patient.gender,
+        },
+        "medications": [
+            {
+                "id": m.id,
+                "medicine_name": m.medicine_name,
+                "dosage": m.dosage,
+                "frequency": m.frequency,
+                "next_due_time": m.next_due_time,
+                "is_active": m.is_active,
+            }
+            for m in patient.medications
+        ] if patient.medications else [],
+        "surgery_details": [
+            {
+                "id": s.id,
+                "surgery_type": s.surgery_type,
+                "surgery_date": s.surgery_date,
+                "hospital": s.hospital,
+                "notes": s.notes,
+            }
+            for s in patient.surgeries
+        ] if patient.surgeries else [],
+        "surgery_report": {
+            "id": patient.surgery_report.id,
+            "medical_problem": patient.surgery_report.medical_problem,
+            "symptoms": patient.surgery_report.symptoms,
+            "report_summary": patient.surgery_report.report_summary,
+            "complications": patient.surgery_report.complications,
+            "recovery_plan": patient.surgery_report.recovery_plan,
+        }
     }
 
 

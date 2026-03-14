@@ -7,9 +7,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Database
-*.db
-medagent.db
+
 
 # Environment variables
 .env

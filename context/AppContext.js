@@ -1,6 +1,5 @@
 import { createContext, useContext, useState, useCallback, useEffect } from 'react';
 import { usePatient } from './PatientContext';
-// mockApi no longer used; patient list is driven by PatientContext
 
 
 // Why changed: removed activeNav and setActiveNav from context state.
@@ -27,37 +26,7 @@ export function AppProvider({ children }) {
   // selectedPatient comes from PatientContext, but we keep the variable name
   // above when we destructured usePatient();
 
-  const triggerCriticalEvent = useCallback(() => {
-    const newAlert = {
-      id: `a_demo_${Date.now()}`,
-      patientId: 'p001',
-      patientName: 'Marcus Johnson',
-      triggerPhrase: 'cannot breathe',
-      riskScore: 97,
-      tier: 'P1',
-      timestamp: 'Just now',
-      message: 'DEMO: Patient reported breathing difficulty. Immediate escalation!',
-      alertType: 'symptom',
-    };
-    setAlerts(prev => [newAlert, ...prev]);
-    setNewAlertId(newAlert.id);
-    setKpi(prev => ({
-      ...prev,
-      critical: prev.critical + 1,
-      activeAlerts: prev.activeAlerts + 1,
-    }));
-    setPatients(prev =>
-      prev.map(p =>
-        p.id === 'p001' ? { ...p, riskScore: 97 } : p
-      ).sort((a, b) => b.riskScore - a.riskScore)
-    );
-    setTimeout(() => setNewAlertId(null), 3000);
-  }, []);
 
-  const simulateRecovery = useCallback(() => {
-    setIsSimulating(true);
-    setTimeout(() => setIsSimulating(false), 4000);
-  }, []);
 
   // sendNudge: adds patientId to nudgedPatients for 10 s, then removes it.
   // The PatientDetailPanel reads nudgedPatients to show the "Reminder Sent" badge.
@@ -119,8 +88,7 @@ export function AppProvider({ children }) {
         activeTab,
         setActiveTab,
         isSimulating,
-        simulateRecovery,
-        triggerCriticalEvent,
+        // simulateRecovery and triggerCriticalEvent removed
         newAlertId,
         nudgedPatients,
         sendNudge,

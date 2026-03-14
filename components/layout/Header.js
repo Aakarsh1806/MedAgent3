@@ -1,18 +1,16 @@
 import { useState, useRef, useEffect } from 'react';
-import { useApp } from '../../context/AppContext';
 import { useDoctor } from '../../context/DoctorContext';
-import { Search, Bell, Volume2, VolumeX, Moon, Sun, Zap, Play } from 'lucide-react';
+import { Search, Bell, Volume2, VolumeX, Moon, Sun } from 'lucide-react';
 import { useRouter } from 'next/router';
 
 // Why changed:
 // 1. Replaced all emoji icons (ð ð ð âï¸ ð ð¨ â¶) with semantic Lucide React icons
 //    (Search, Bell, Volume2, VolumeX, Moon, Sun, Zap, Play) â cleaner, scalable, no
 //    platform-dependent emoji rendering.
-// 2. Kept all existing functionality (triggerCriticalEvent, simulateRecovery, sound toggle,
+// 2. Kept all existing functionality (sound toggle,
 //    dark mode toggle UI) â only the icon rendering changed.
 
 export default function Header() {
-  const { triggerCriticalEvent, simulateRecovery } = useApp();
   const [soundOn, setSoundOn] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
 
@@ -48,26 +46,6 @@ export default function Header() {
             className="w-full pl-9 pr-4 py-2 bg-gray-50 border border-gray-200 rounded-xl text-sm text-gray-700 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all"
           />
         </div>
-      </div>
-
-      {/* Demo Buttons */}
-      <div className="flex items-center gap-2 mx-4">
-        <button
-          onClick={triggerCriticalEvent}
-          className="flex items-center gap-1.5 px-3 py-1.5 bg-red-50 hover:bg-red-100 text-critical text-xs font-semibold rounded-lg border border-red-200 transition-all hover:shadow-sm active:scale-95"
-        >
-          {/* Zap replaces ð¨ â conveys urgency without emoji */}
-          <Zap size={13} strokeWidth={2.5} />
-          <span>Trigger Critical</span>
-        </button>
-        <button
-          onClick={simulateRecovery}
-          className="flex items-center gap-1.5 px-3 py-1.5 bg-blue-50 hover:bg-blue-100 text-primary text-xs font-semibold rounded-lg border border-blue-200 transition-all hover:shadow-sm active:scale-95"
-        >
-          {/* Play replaces â¶ text character */}
-          <Play size={13} strokeWidth={2.5} />
-          <span>Simulate Recovery</span>
-        </button>
       </div>
 
       {/* Right Controls */}

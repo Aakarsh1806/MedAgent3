@@ -1,0 +1,2369 @@
+==================================================
+PATIENT ID: 1
+Name: Victor Jones
+Age: 46
+Gender: Female
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Severe Osteoarthritis of the Right Hip with progressive joint space narrowing, subchondral sclerosis, and osteophyte formation confirmed on radiographic imaging. The patient presented with chronic, debilitating hip pain unresponsive to conservative management including physiotherapy and analgesic therapy over 18 months.
+
+Symptoms:
+Persistent right hip pain (rated 8/10 at rest, 10/10 with ambulation), marked reduction in hip range of motion (flexion limited to 60°), antalgic gait, morning stiffness lasting >45 minutes, crepitus on passive movement, and pain radiating to the right groin and proximal thigh. Functional decline with inability to climb stairs or perform activities of daily living independently.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Severe right hip osteoarthritis with complete loss of articular cartilage and varus deformity.
+
+Procedure Performed: Total Right Hip Arthroplasty (THA) — Posterior Approach.
+
+Anesthesia: Spinal anesthesia with intraoperative sedation. Cefazolin 2g IV administered 30 minutes pre-incision.
+
+Intraoperative Findings: Complete erosion of femoral head articular cartilage with subchondral cyst formation noted. Acetabular cartilage entirely absent with exposed eburnated bone. Osteophytes excised. Hip capsule thickened and fibrotic.
+
+Surgical Technique: Patient positioned in left lateral decubitus. Posterior approach via Gibson incision. Short external rotators detached and tagged for later repair. Femoral head dislocated posteriorly and neck osteotomy performed. Acetabulum reamed to 52mm; uncemented hemispherical cup with cross-linked polyethylene liner inserted at 45° abduction and 20° anteversion. Femoral canal broached; size 6 uncemented tapered stem with 32mm ceramic femoral head inserted. Hip reduced with good stability through full range of motion. Short external rotators repaired. Wound irrigated and closed in layers.
+
+Estimated Blood Loss: Approximately 380 mL. No intraoperative transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to PACU in hemodynamically stable condition. Pain controlled with spinal analgesia. No intraoperative complications. Neurovascular status of right lower limb intact.
+
+Complications:
+Mild post-operative surgical site swelling and ecchymosis around the right hip — expected and resolving with elevation and ice application. Low-grade post-operative fever (38.1°C) on Day 1, resolved by Day 2 without intervention. Transient post-operative nausea secondary to spinal anesthesia, managed with ondansetron 4mg IV. Elevated DVT risk given orthopaedic procedure; anticoagulation initiated per protocol. Age-related risk of delayed wound healing being monitored.
+
+Recovery Plan:
+Estimated hospital stay: 3–4 days post-operatively. Weight-bearing as tolerated with walking frame from Day 1, progressing to crutches. Hip precautions strictly enforced: no hip flexion >90°, no adduction past midline, no internal rotation. Physiotherapy initiated Day 1 post-op with gradual ambulation and strengthening exercises, 5 days/week during hospitalisation, continuing as outpatient 3 days/week for 8 weeks. Full recovery and independent ambulation anticipated within 6–8 weeks. Return to sedentary work at 4–6 weeks; strenuous activity cleared at 3 months. Follow-up appointments: 2 weeks (wound review), 6 weeks (X-ray and functional assessment), 3 months (final clearance). Diet: high-protein, iron-rich diet to support wound healing and blood recovery. No NSAIDs for 4 weeks post-op.
+
+Medications:
+1. Cefuroxime 500mg
+   Dosage: 500mg
+   Frequency: Twice daily
+   Duration: 5 days
+   Status: Active
+
+2. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+3. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 14 days
+   Status: Active
+
+4. Tramadol 50mg
+   Dosage: 50mg
+   Frequency: Every 8 hours as needed
+   Duration: 5 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.563861] Risk Score: 77.33609958506223 | Escalation: P1 | Pain: 4.0 | Symptoms: 8.0
+[2026-02-22 01:42:40.563658] Risk Score: 71.67634854771785 | Escalation: P2 | Pain: 10.0 | Symptoms: 4.0
+[2026-03-01 01:42:40.563287] Risk Score: 54.9792531120332 | Escalation: P2 | Pain: 2.0 | Symptoms: 9.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.736462] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.742091] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.946658
+Inactivity Level: High
+Reminder Count: 1
+
+==================================================
+PATIENT ID: 2
+Name: Frank Gonzalez
+Age: 30
+Gender: Female
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Premature severe triple-vessel coronary artery disease with critical stenosis of the left anterior descending artery (LAD), right coronary artery (RCA), and left circumflex artery (LCx). Confirmed by coronary angiography showing >80% stenosis in all three vessels. Patient presented with unstable angina and reduced left ventricular ejection fraction (LVEF 38%) on echocardiography, not amenable to percutaneous coronary intervention (PCI) due to diffuse lesion distribution. Significant family history of premature coronary artery disease.
+
+Symptoms:
+Chest pain and pressure on minimal exertion (CCS Class III angina), episodic dyspnea at rest, diaphoresis, palpitations, fatigue, and two prior episodes of pre-syncopal events. Resting ECG showed ST-segment depression in lateral leads. Troponin mildly elevated on admission.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Severe triple-vessel coronary artery disease with significantly impaired left ventricular function; unstable angina.
+
+Procedure Performed: Coronary Artery Bypass Grafting (CABG) × 3 — Off-pump technique (OPCAB).
+
+Anesthesia: General endotracheal anesthesia with continuous arterial line and pulmonary artery catheter monitoring.
+
+Intraoperative Findings: Severe atherosclerotic disease confirmed in all three major coronary vessels. LAD occluded at mid-segment with distal disease. RCA with proximal 85% stenosis. LCx with high marginal branch involvement. Saphenous vein of adequate quality harvested from the right leg.
+
+Surgical Technique: Median sternotomy performed. Left internal mammary artery (LIMA) harvested and anastomosed to LAD as primary conduit. Reversed saphenous vein grafts anastomosed sequentially to the obtuse marginal branch (OM1) and the posterior descending artery (PDA). Hemostasis confirmed. Sternal closure with stainless steel wires. Off-pump technique employed given patient age and to minimise neurological risk.
+
+Estimated Blood Loss: Approximately 550 mL. Two units of packed red blood cells transfused intraoperatively.
+
+Immediate Post-operative Condition: Patient transferred to Cardiac ICU intubated and haemodynamically stable on vasopressors. Extubated at 6 hours post-operatively. Urine output satisfactory. Cardiac rhythm in sinus throughout.
+
+Complications:
+Transient post-operative atrial fibrillation (AF) on Day 2, managed with amiodarone IV and spontaneous conversion to sinus rhythm within 8 hours. Mild left pleural effusion noted on Day 3 chest X-ray, managed conservatively with physiotherapy. Sternal wound site oedema with seropurulent discharge on Day 4, wound swab obtained — culture negative; managed with local dressing and oral antibiotics. Elevated DVT risk managed with sequential compression devices and anticoagulation. Given young age (30), patient counselled extensively on risk factor modification including smoking cessation and lipid management.
+
+Recovery Plan:
+Estimated hospital stay: 7–10 days. ICU stay: 24–48 hours. Sternal precautions for 8 weeks: no lifting >2 kg, no driving for 6 weeks. Cardiac rehabilitation programme commencing at 4–6 weeks post-discharge, 3 sessions/week for 12 weeks. Return to light work at 8–10 weeks; strenuous activity at 3 months with cardiologist clearance. Formal echocardiogram and stress test at 3 months. Follow-up: 2 weeks (wound check), 6 weeks (cardiac assessment), 3 months (comprehensive review). Diet: low-sodium, low-saturated-fat cardiac diet. Strict lipid-lowering and antihypertensive therapy maintenance. Smoking cessation mandatory.
+
+Medications:
+1. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+2. Atorvastatin 40mg
+   Dosage: 40mg
+   Frequency: Once nightly
+   Duration: Lifelong
+   Status: Active
+
+3. Bisoprolol 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+4. Ramipril 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.568019] Risk Score: 69.86721991701245 | Escalation: P2 | Pain: 8.0 | Symptoms: 8.0
+[2026-02-22 01:42:40.567835] Risk Score: 5.950207468879668 | Escalation: P3 | Pain: 2.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.567617] Risk Score: 83.40248962655602 | Escalation: P1 | Pain: 9.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.747953] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.748113] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.949787
+Inactivity Level: High
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 3
+Name: Peggy Rodriguez
+Age: 68
+Gender: Male
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Severe ischaemic heart disease with two-vessel coronary artery disease affecting the left anterior descending artery (LAD) and right coronary artery (RCA), complicated by prior silent myocardial infarction identified on nuclear perfusion imaging. Patient presented with worsening exertional angina (CCS Class II-III), elevated cardiovascular risk, and anatomy unsuitable for stenting due to vessel tortuosity and calcification. Background of hypertension and Type 2 Diabetes Mellitus, both contributing to accelerated atherosclerosis.
+
+Symptoms:
+Chest tightness and heaviness on moderate exertion (walking <200 metres), dyspnoea on exertion, bilateral ankle oedema, orthopnoea requiring two pillows, persistent fatigue, and nocturnal angina on two occasions. ECG demonstrating Q waves in inferior leads consistent with old inferior infarct.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Two-vessel coronary artery disease with prior inferior myocardial infarction; LVEF 45%; CCS Class III angina; failed medical management.
+
+Procedure Performed: Coronary Artery Bypass Grafting (CABG) × 2 — On-pump with cardiopulmonary bypass.
+
+Anesthesia: General endotracheal anesthesia. Invasive arterial monitoring, central venous access, transoesophageal echocardiography (TOE) deployed. Pre-operative glycaemic control optimised.
+
+Intraoperative Findings: Left anterior descending artery with 75% proximal stenosis and diffuse distal disease. Right coronary artery with 90% mid-vessel stenosis. Left circumflex system relatively spared. Calcified aorta noted requiring modified cannulation technique. Saphenous vein of adequate calibre harvested endoscopically from left lower limb.
+
+Surgical Technique: Standard median sternotomy. Cardiopulmonary bypass established. Heart arrested with cold blood cardioplegia. LIMA anastomosed to LAD. Reversed saphenous vein graft to the posterior descending artery (PDA) of the RCA. De-airing performed carefully. Patient weaned from bypass without difficulty. Haemostasis confirmed prior to closure.
+
+Estimated Blood Loss: Approximately 650 mL. One unit packed red blood cells transfused post-bypass.
+
+Immediate Post-operative Condition: Patient transferred to Cardiac ICU intubated. Extubation achieved at 8 hours. Haemodynamically stable on minimal vasopressor support. Blood glucose monitored and maintained with insulin infusion. Urine output adequate.
+
+Complications:
+Post-operative hyperglycaemia managed with insulin sliding scale protocol — resolved by Day 2. Transient mild confusion (post-cardiac surgery cognitive syndrome) noted on Day 2, resolving by Day 3 with orientation support and sleep hygiene measures. Mild pericardial friction rub identified on Day 4 — consistent with post-pericardiotomy syndrome; managed with ibuprofen and colchicine. Bilateral lower limb oedema present at discharge, anticipated to resolve with diuresis. High DVT risk managed with compression stockings and low-molecular-weight heparin bridge.
+
+Recovery Plan:
+Estimated hospital stay: 10–12 days including 48–72 hours Cardiac ICU. Sternal precautions: 8 weeks strict lifting restriction (<2 kg). No driving for 6 weeks. Cardiac rehabilitation: commence 6 weeks post-discharge; 3 sessions/week for 12 weeks. Diabetic dietitian review and structured diabetic management plan. Echo at 3 months to reassess LVEF. Follow-up: 2 weeks (wound review and blood tests), 6 weeks (cardiac and diabetic review), 3 months (comprehensive cardiological assessment). Diet: low-sodium, cardiac diabetic diet. Alcohol restriction. Blood pressure target <130/80 mmHg.
+
+Medications:
+1. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+2. Atorvastatin 40mg
+   Dosage: 40mg
+   Frequency: Once nightly
+   Duration: Lifelong
+   Status: Active
+
+3. Metoprolol Succinate 50mg
+   Dosage: 50mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+4. Losartan 50mg
+   Dosage: 50mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.571538] Risk Score: 18.58921161825726 | Escalation: P3 | Pain: 3.0 | Symptoms: 3.0
+[2026-02-22 01:42:40.571383] Risk Score: 12.730290456431534 | Escalation: P3 | Pain: 7.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.571177] Risk Score: 75.10373443983403 | Escalation: P1 | Pain: 8.0 | Symptoms: 7.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.751878] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.752020] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.952587
+Inactivity Level: High
+Reminder Count: 2
+
+==================================================
+PATIENT ID: 4
+Name: Alice Johnson
+Age: 76
+Gender: Male
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Advanced bilateral hip osteoarthritis with complete loss of right hip joint space, avascular necrosis of the femoral head, and severe functional impairment. Patient presented with inability to ambulate independently, requiring a walking frame for all mobility. Previous trial of intra-articular corticosteroid injections provided only temporary relief. Comorbidities include hypertension, Type 2 Diabetes Mellitus, and mild anaemia of chronic disease.
+
+Symptoms:
+Severe bilateral hip pain, right greater than left (rated 9/10 on VAS), inability to walk >10 metres without stopping, night pain disturbing sleep, hip joint stiffness lasting >1 hour in the morning, complete inability to manage stairs, weight loss secondary to inactivity and chronic pain, and dependent oedema of the lower limbs.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: End-stage right hip osteoarthritis with avascular necrosis of the femoral head; functional dependency.
+
+Procedure Performed: Total Right Hip Arthroplasty (THA) — Direct Lateral Approach (Hardinge).
+
+Anesthesia: Spinal anesthesia with sedation. Pre-operative optimisation of blood glucose and haemoglobin performed. Cefazolin 2g IV prophylaxis administered 30 minutes pre-incision. Compression stockings and sequential compression devices applied pre-operatively.
+
+Intraoperative Findings: Complete destruction of the femoral head with collapse of the superior dome. Acetabulum exposed with complete absence of articular cartilage and significant sclerosis. Extensive osteophyte formation requiring thorough debridement before cup preparation.
+
+Surgical Technique: Patient positioned in lateral decubitus. Direct lateral approach used given patient age and dislocation risk considerations. Femoral head removed. Acetabulum reamed sequentially to 54mm. Cementless porous-coated cup impacted with two supplementary screws for additional fixation given bone quality concerns. 36mm ceramic head on highly cross-linked polyethylene liner used. Femoral canal prepared; cemented polished tapered stem utilised given osteoporotic bone stock. Hip reduced with excellent stability confirmed through full arc of motion testing. Wound closed in layers over suction drain.
+
+Estimated Blood Loss: Approximately 450 mL. Transfusion trigger set at Hb <8g/dL; one unit of packed red blood cells transfused intraoperatively.
+
+Immediate Post-operative Condition: Patient extubated (spinal weaned) and transferred to recovery in stable condition. Pain well-controlled. Blood glucose monitored hourly. Drain output 80mL over first 4 hours.
+
+Complications:
+Post-operative delirium on Day 1 (hypoactive type), managed with reorientation, family presence, and avoidance of sedatives; fully resolved by Day 3. Wound drain removed at 48 hours with total output 220mL. Mild post-operative urinary retention requiring short-term catheterisation — catheter removed at 36 hours with successful spontaneous voiding. Elevated DVT risk stratified as high given age and surgical complexity; extended anticoagulation prescribed. Blood glucose instability managed with sliding scale insulin during admission. Post-operative haemoglobin 9.2g/dL at Day 2 — managed with iron supplementation rather than further transfusion.
+
+Recovery Plan:
+Estimated hospital stay: 5–7 days. Weight-bearing as tolerated with rollator frame from Day 1. Hip precautions maintained for 6 weeks. Inpatient physiotherapy twice daily commencing Day 1. Discharge to step-down rehabilitation unit for 2 weeks of supervised mobility training prior to home return. Outpatient physiotherapy 3×/week for 8 weeks after rehabilitation discharge. Occupational therapy home assessment arranged. Target: independent indoor ambulation with one stick at 6 weeks; stair climbing at 8 weeks. Full recovery anticipated at 4–6 months. Follow-up: 2 weeks, 6 weeks, 3 months, 1 year. Diet: high-protein, calcium-rich diet. Vitamin D supplementation. Diabetic diet maintained. Strict blood pressure monitoring.
+
+Medications:
+1. Cefuroxime 500mg
+   Dosage: 500mg
+   Frequency: Twice daily
+   Duration: 7 days
+   Status: Active
+
+2. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Three times daily
+   Duration: 10 days
+   Status: Active
+
+3. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 35 days (extended prophylaxis)
+   Status: Active
+
+4. Metformin 500mg
+   Dosage: 500mg
+   Frequency: Twice daily with meals
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.575498] Risk Score: 54.97095435684647 | Escalation: P2 | Pain: 5.0 | Symptoms: 8.0
+[2026-02-22 01:42:40.575331] Risk Score: 31.020746887966805 | Escalation: P3 | Pain: 1.0 | Symptoms: 6.0
+[2026-03-01 01:42:40.575120] Risk Score: 47.477178423236516 | Escalation: P2 | Pain: 5.0 | Symptoms: 3.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.755839] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.755985] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.955114
+Inactivity Level: High
+Reminder Count: 0
+
+==================================================
+PATIENT ID: 5
+Name: John Jones
+Age: 56
+Gender: Female
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Suppurative Appendicitis with localised periappendiceal inflammation. Patient presented to the Emergency Department with a 36-hour history of progressive right iliac fossa pain, preceded by periumbilical colicky pain that migrated to the right lower quadrant. Clinical examination confirmed localised peritonism. CT abdomen confirmed a dilated, thick-walled appendix with periappendiceal fat stranding and no evidence of perforation.
+
+Symptoms:
+Sudden onset right iliac fossa pain (8/10 on VAS), nausea with two episodes of vomiting, low-grade fever (38.3°C), anorexia, rebound tenderness at McBurney's point, positive Rovsing's sign, and elevated white cell count (WBC 16.2 × 10⁹/L) with neutrophilia. Urinalysis unremarkable. Beta-hCG negative.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute suppurative appendicitis without perforation.
+
+Procedure Performed: Laparoscopic Appendectomy — Three-Port Technique.
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g and Metronidazole 500mg administered 30 minutes pre-incision.
+
+Intraoperative Findings: Acutely inflamed, distended appendix identified with congested mesoappendix and serosal exudate. No free peritoneal fluid. No perforation. Base of appendix healthy. Adjacent caecal wall not involved. Pelvic organs unremarkable.
+
+Surgical Technique: Veress needle insufflation with CO2 pneumoperitoneum established at 12mmHg. 12mm umbilical port inserted, followed by two 5mm working ports (right iliac fossa and suprapubic). Appendix identified and elevated. Mesoappendix divided with LigaSure device, preserving the ileocolic vessels. Endoloops placed at the appendicular base (×2 proximally, ×1 distally). Appendix excised and removed via 12mm port in retrieval bag. Peritoneal cavity copiously irrigated with warm saline. Port sites closed in layers. Skin closed with subcuticular sutures.
+
+Estimated Blood Loss: Approximately 30 mL (minimal).
+
+Immediate Post-operative Condition: Patient extubated in the operating theatre and transferred to recovery in stable condition. Abdomen soft. Pain controlled with IV morphine. Tolerating oral fluids within 3 hours post-op.
+
+Complications:
+Mild post-operative ileus on Day 1 (no bowel sounds at 12 hours) — resolved with early ambulation and oral fluid encouragement by Day 2. Port site discomfort and ecchymosis at umbilical port — expected, managed with oral analgesia. Transient nausea managed with ondansetron. Risk of port site infection monitored with daily wound inspection. Given age 56, DVT prophylaxis with compression stockings applied. No wound infection or intra-abdominal collection identified.
+
+Recovery Plan:
+Expected hospital stay: 2–3 days. Oral diet commenced 4 hours post-operatively, advancing to normal diet as tolerated. Full mobilisation from Day 1 post-op. Return to sedentary work: 1–2 weeks. Return to manual work: 4–6 weeks. No heavy lifting for 4 weeks. No specific physiotherapy required. Wound review at 7–10 days. Single outpatient follow-up at 4 weeks. Diet: light meals for first 5 days, advancing to normal balanced diet. Fibre-rich diet recommended to prevent constipation post-operatively.
+
+Medications:
+1. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 5 days
+   Status: Active
+
+2. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+3. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+4. Ondansetron 4mg
+   Dosage: 4mg
+   Frequency: As needed for nausea (maximum 3 times daily)
+   Duration: 3 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.580154] Risk Score: 26.564315352697093 | Escalation: P3 | Pain: 9.0 | Symptoms: 1.0
+[2026-02-22 01:42:40.579963] Risk Score: 46.77178423236514 | Escalation: P2 | Pain: 6.0 | Symptoms: 7.0
+[2026-03-01 01:42:40.579692] Risk Score: 7.668049792531121 | Escalation: P3 | Pain: 2.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.759084] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.759211] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:40.958063
+Inactivity Level: Low
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 6
+Name: Alice Davis
+Age: 82
+Gender: Female
+Doctor: Dr. Sarah Taylor
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+End-stage bilateral knee osteoarthritis with severe medial compartment narrowing, varus deformity of the right knee, and significant functional impairment. The right knee demonstrates complete loss of joint space with subchondral sclerosis, large marginal osteophytes, and bone-on-bone articulation confirmed on weight-bearing radiographs. Patient has failed conservative management including corticosteroid injections, hyaluronic acid therapy, and prolonged physiotherapy. Comorbidities include hypertension, mild chronic kidney disease (Stage 2), and osteopenia.
+
+Symptoms:
+Severe right knee pain (9/10 at rest, constant), visible joint deformity with 12° varus malalignment, knee swelling with effusion, severe restriction of flexion (maximum 80°) and extension (5° fixed flexion contracture), inability to mobilise without a walking frame, night pain, and complete dependence on others for instrumental activities of daily living.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: End-stage right knee osteoarthritis with varus deformity and fixed flexion contracture; functional dependency in elderly patient.
+
+Procedure Performed: Total Right Knee Arthroplasty (TKA) — Medial Parapatellar Approach with patellar resurfacing.
+
+Anesthesia: Spinal anesthesia with sciatic nerve block for post-operative analgesia. Cefazolin 2g IV prophylaxis administered. Tourniquet applied at 300 mmHg.
+
+Intraoperative Findings: Complete loss of medial compartment articular cartilage. Moderate lateral compartment involvement. Grade II patellar cartilage loss. Varus deformity fully correctable under anaesthesia. Cruciate ligaments attenuated; posterior-stabilised implant selected. Bone quality moderate for age; cement fixation employed.
+
+Surgical Technique: Anterior midline skin incision, medial parapatellar arthrotomy. Synovectomy performed. Distal femoral and proximal tibial bone cuts performed with measured resection technique using intramedullary and extramedullary guides. Trial components inserted confirming neutral alignment. Patellar resurfaced with 29mm all-polyethylene button. Final cemented components implanted: PS femoral component, flat tibial baseplate with fully congruent poly insert, cemented patella. Cement mantle confirmed satisfactory. Tourniquet released; haemostasis achieved with bipolar diathermy. Wound irrigated and closed in layers over suction drain.
+
+Estimated Blood Loss: Approximately 310 mL with tourniquet control. Transfusion trigger set conservatively; no intraoperative transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to PACU in stable condition. Spinal block maintained satisfactory analgesia. Drain output 60mL in recovery. Limb neurovascular status intact distally.
+
+Complications:
+Post-operative urinary retention secondary to spinal anesthesia — managed with in-out catheterisation; spontaneous voiding restored within 24 hours. Mild post-operative confusion (Day 1) consistent with delirium in elderly patient — resolved with reorientation and withdrawal of opioid analgesia. Knee joint stiffness anticipated given fixed flexion contracture pre-operatively; intensive physiotherapy commenced early. Low haemoglobin (Hb 8.8 g/dL) at Day 2 managed with oral iron supplementation. Wound oedema and ecchymosis present — expected, resolved with elevation and compression. High DVT risk managed with extended anticoagulation and compression devices. Renal function monitored given background CKD.
+
+Recovery Plan:
+Estimated hospital stay: 5–7 days. Weight-bearing as tolerated with walking frame from Day 1. Active knee flexion and extension exercises commenced in recovery under physiotherapist supervision. Target: 90° knee flexion by Day 5, stair climbing with rail assistance by Day 6. Discharge to inpatient rehabilitation ward for 10–14 days given patient age and comorbidities. Outpatient physiotherapy 3×/week for 8 weeks following rehabilitation discharge. Full recovery anticipated at 4–6 months; maximal outcome at 12 months. Follow-up: 2 weeks, 6 weeks, 3 months, 1 year. Occupational therapy home assessment and equipment provision prior to discharge. Diet: high-protein, calcium and vitamin D-supplemented diet. Adequate hydration to support renal function. Mild laxative prescribed to prevent opioid-related constipation.
+
+Medications:
+1. Cefuroxime 500mg
+   Dosage: 500mg
+   Frequency: Twice daily
+   Duration: 7 days
+   Status: Active
+
+2. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 10 days
+   Status: Active
+
+3. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 35 days (extended prophylaxis given age and mobility)
+   Status: Active
+
+4. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing (antihypertensive continuation)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.586151] Risk Score: 19.219917012448132 | Escalation: P3 | Pain: 3.0 | Symptoms: 5.0
+[2026-02-22 01:42:40.585986] Risk Score: 17.004149377593365 | Escalation: P3 | Pain: 3.0 | Symptoms: 6.0
+[2026-03-01 01:42:40.585778] Risk Score: 38.589211618257266 | Escalation: P3 | Pain: 7.0 | Symptoms: 9.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.767102] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.767238] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:40.961844
+Inactivity Level: High
+Reminder Count: 1
+
+==================================================
+PATIENT ID: 7
+Name: Jane Rodriguez
+Age: 56
+Gender: Male
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Severe medial compartment knee osteoarthritis of the left knee with secondary lateral compartment involvement and significant varus malalignment of 8°. The patient has a documented 3-year history of progressive left knee pain and functional decline, unresponsive to NSAIDs, physiotherapy, and two courses of intra-articular corticosteroid injections. Weight-bearing radiographs confirm bone-on-bone articulation in the medial compartment with subchondral sclerosis and large osteophytic outgrowths.
+
+Symptoms:
+Left knee pain rated 8/10 on VAS, joint swelling with recurrent effusions, antalgic gait with limp, inability to fully extend the knee (5° flexion contracture), difficulty ascending and descending stairs, pain on prolonged standing, and disrupted sleep secondary to nocturnal knee pain.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Severe left knee osteoarthritis with medial compartment disease and varus deformity.
+
+Procedure Performed: Total Left Knee Arthroplasty (TKA) — Medial Parapatellar Approach, Cruciate-Retaining implant.
+
+Anesthesia: Spinal anesthesia with adductor canal block for enhanced post-operative analgesia. Cefazolin 2g IV prophylaxis. Tourniquet at 280 mmHg applied.
+
+Intraoperative Findings: Bone-on-bone medial compartment. Moderate lateral and patellofemoral involvement. Posterior cruciate ligament intact and functional — cruciate-retaining implant selected. Adequate femoral and tibial bone stock confirmed for cementless fixation.
+
+Surgical Technique: Anterior midline skin incision. Medial parapatellar arthrotomy. Medial osteophytes removed. Femoral and tibial resection cuts performed. Balanced flexion and extension gaps confirmed with spacer blocks. Trial components inserted with satisfactory alignment and kinematics. Final cementless titanium components implanted with press-fit technique; supplementary tibial screw fixation. Patella not resurfaced (cartilage intact). Wound irrigated. Tourniquet released; haemostasis achieved. Closure over suction drain.
+
+Estimated Blood Loss: Approximately 280 mL. No transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to PACU in satisfactory condition. Haemodynamically stable. Block analgesia effective — patient comfortable. Neurovascular observations normal.
+
+Complications:
+Mild haemarthrosis noted at 24 hours — managed with drain maintained for 36 hours (total output 190mL). Post-operative nausea managed with metoclopramide. Transient pyrexia (37.9°C) on Day 2 — wound swab negative; treated conservatively with antipyretics and confirmed resolving on Day 3. Stiffness anticipated post-operatively requiring intensive physiotherapy. DVT risk managed per orthopaedic anticoagulation protocol.
+
+Recovery Plan:
+Hospital stay: 4–5 days. Physiotherapy initiated Day 1 with active and passive ROM exercises. Target 0–90° ROM at discharge. Outpatient physiotherapy 3×/week for 6–8 weeks. Return to office work at 4–6 weeks. Return to manual activities at 3 months. Full functional recovery anticipated at 6 months. Follow-up at 2 weeks, 6 weeks, 3 months, and 1 year with standing knee X-ray at 6 weeks. Diet: high-protein diet to support recovery; encourage oral hydration.
+
+Medications:
+1. Atorvastatin 20mg
+   Dosage: 20mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 14 days
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Lisinopril 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.589958] Risk Score: 16.796680497925312 | Escalation: P3 | Pain: 1.0 | Symptoms: 9.0
+[2026-02-22 01:42:40.589787] Risk Score: 55.709543568464724 | Escalation: P2 | Pain: 9.0 | Symptoms: 10.0
+[2026-03-01 01:42:40.589574] Risk Score: 75.86721991701245 | Escalation: P1 | Pain: 3.0 | Symptoms: 6.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.771321] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.771438] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-25 01:42:40.966309
+Inactivity Level: High
+Reminder Count: 0
+
+==================================================
+PATIENT ID: 8
+Name: Judy Davis
+Age: 51
+Gender: Male
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Significant two-vessel coronary artery disease with critical stenosis (90%) of the left anterior descending artery (LAD) and ostial stenosis of the right coronary artery (RCA), in the setting of recently diagnosed stable angina and positive exercise tolerance test. Coronary angiography confirmed anatomy not suitable for percutaneous coronary intervention (PCI) due to diffuse proximal and mid-LAD calcification. Left ventricular ejection fraction preserved at 55% on echocardiography. Background of dyslipidaemia and mild hypertension.
+
+Symptoms:
+Exertional chest tightness (CCS Class II), dyspnoea on moderate exertion, occasional palpitations, progressive fatigue, and reduced exercise capacity over the preceding 4 months. Exercise ECG demonstrated ST depression in anterior leads at low workload.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Two-vessel coronary artery disease with stable angina unresponsive to maximal medical therapy; unfavourable anatomy for PCI.
+
+Procedure Performed: Coronary Artery Bypass Grafting (CABG) × 2 — On-pump, cardiopulmonary bypass.
+
+Anesthesia: General endotracheal anesthesia with full invasive haemodynamic monitoring. Pre-operative pulmonary function optimised.
+
+Intraoperative Findings: LAD — heavily calcified proximal and mid-vessel with tandem critical stenoses. RCA — ostial 90% stenosis. Left main artery unobstructed. Saphenous vein of good quality harvested from the left lower extremity.
+
+Surgical Technique: Standard median sternotomy. Cardiopulmonary bypass established via ascending aorta and right atrial cannulation. Cold blood antegrade cardioplegia for myocardial protection. LIMA to LAD anastomosis performed with running 7-0 prolene. Reversed saphenous vein graft to posterior descending artery. De-airing confirmed with epiaortic echo. Patient successfully weaned from bypass. Sternal closure with dual-wire cerclage. Skin closed with subcuticular suture.
+
+Estimated Blood Loss: Approximately 480 mL. No intraoperative transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to Cardiac ICU intubated; extubated at 5 hours post-operatively. Haemodynamically stable. Urine output satisfactory. Sinus rhythm maintained throughout.
+
+Complications:
+Post-operative pericardial friction rub on Day 3 — managed with anti-inflammatory therapy; no significant effusion on echocardiogram. Mild wound discomfort along the sternotomy — managed with regular analgesia and wound support. Transient post-operative hypertension requiring IV labetalol on Day 1; controlled with oral antihypertensive by Day 2. Saphenous vein harvest site oedema managed with compression bandaging. DVT prophylaxis applied with compression stockings and anticoagulation.
+
+Recovery Plan:
+Hospital stay: 8–10 days. ICU: 24–36 hours. Sternal precautions for 8 weeks (no lifting >2 kg, no driving). Cardiac rehabilitation commencing at 4 weeks post-discharge, 3×/week for 8 weeks. Return to sedentary work: 8 weeks. Return to physical work: 12–16 weeks with cardiologist clearance. Formal ETT at 3 months. Follow-up: 2 weeks (wound check), 6 weeks (cardiological review), 3 months (comprehensive assessment including echocardiogram). Diet: low-fat, heart-healthy diet; sodium restriction. Smoking cessation if applicable; lipid targets reviewed at 3 months.
+
+Medications:
+1. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+2. Atorvastatin 40mg
+   Dosage: 40mg
+   Frequency: Once nightly
+   Duration: Lifelong
+   Status: Active
+
+3. Bisoprolol 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+4. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with meals
+   Duration: 5 days (for pericardial inflammation)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.596652] Risk Score: 90.67219917012449 | Escalation: P1 | Pain: 10.0 | Symptoms: 4.0
+[2026-02-22 01:42:40.595128] Risk Score: 46.879668049792535 | Escalation: P2 | Pain: 1.0 | Symptoms: 6.0
+[2026-03-01 01:42:40.594648] Risk Score: 78.08298755186722 | Escalation: P1 | Pain: 3.0 | Symptoms: 7.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.774220] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.774350] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.970949
+Inactivity Level: Medium
+Reminder Count: 2
+
+==================================================
+PATIENT ID: 9
+Name: Bob Williams
+Age: 79
+Gender: Male
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Large symptomatic right indirect inguinal hernia with intermittent reducibility and recent episode of incomplete spontaneous reduction requiring manual manipulation, raising concern for incipient incarceration. CT abdomen confirmed a large right inguinal hernia containing a segment of small bowel and omentum with no signs of strangulation at time of imaging. Patient reported progressive enlargement over 18 months. Comorbidities include hypertension, benign prostatic hyperplasia (BPH), and chronic constipation — all contributing to raised intra-abdominal pressure.
+
+Symptoms:
+Right groin bulge, intermittently reducible, with discomfort and a dragging sensation on standing and straining, episodes of incomplete reduction requiring manual assistance, mild groin pain radiating to the right inner thigh, and inability to exercise due to discomfort.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Large right indirect inguinal hernia with risk of incarceration; intermittent manual reduction required.
+
+Procedure Performed: Open Right Inguinal Hernia Repair (Lichtenstein Tension-Free Mesh Repair).
+
+Anesthesia: Spinal anesthesia with local infiltration for supplementary analgesia. Cefazolin 2g IV administered pre-incision.
+
+Intraoperative Findings: Large indirect inguinal hernia sac extending to the mid-scrotum. Hernia sac contents: omentum and small bowel loop — both viable and readily reduced. Internal inguinal ring significantly dilated. Posterior wall of the inguinal canal attenuated. No evidence of strangulation.
+
+Surgical Technique: Oblique groin crease incision over the right inguinal canal. External oblique aponeurosis opened. Ilioinguinal nerve identified and preserved. Spermatic cord isolated and encircled. Indirect hernia sac dissected from cord structures and reduced. Sac ligated and excised at the internal ring. Tension-free mesh repair performed: polypropylene flat mesh secured to pubic tubercle, inguinal ligament, and conjoint tendon using non-absorbable sutures. Mesh slit around spermatic cord at the internal ring. Wound closed in layers.
+
+Estimated Blood Loss: Minimal, approximately 40 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in stable condition. Haemodynamically stable. Pain controlled with spinal analgesia and local anaesthetic. Voiding satisfactory post-procedure.
+
+Complications:
+Mild scrotal haematoma noted at Day 1 — managed conservatively with scrotal support and elevation; resolving by Day 5. Post-operative urinary retention on Day 1 given background BPH and spinal anesthesia — managed with temporary catheterisation (24 hours); alpha-blocker continued. Mild chronic pain risk along distribution of ilioinguinal nerve monitored. Wound site oedema and bruising — expected and resolving. Risk of mesh infection minimal given prophylactic antibiotics. DVT risk managed conservatively with early mobilisation and compression stockings given anticoagulation interaction risk with BPH medication.
+
+Recovery Plan:
+Hospital stay: 2 days. Mobilisation same day of surgery. Return to light activity: 2 weeks. Return to moderate activity and work: 4–6 weeks. Heavy lifting and strenuous physical activity: restricted for 6–8 weeks. Wound review at 7 days. Follow-up at 6 weeks. Alpha-blocker therapy for BPH reviewed at urology follow-up. Diet: high-fibre diet and adequate hydration to manage chronic constipation and reduce intra-abdominal pressure. Laxatives if required. Weight management advice provided.
+
+Medications:
+1. Atorvastatin 20mg
+   Dosage: 20mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Lisinopril 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Tamsulosin 400mcg
+   Dosage: 400mcg
+   Frequency: Once daily at bedtime
+   Duration: Ongoing (BPH management)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.601070] Risk Score: 20.970954356846473 | Escalation: P3 | Pain: 9.0 | Symptoms: 4.0
+[2026-02-22 01:42:40.600879] Risk Score: 48.207468879668056 | Escalation: P2 | Pain: 4.0 | Symptoms: 4.0
+[2026-03-01 01:42:40.600618] Risk Score: 56.456431535269715 | Escalation: P2 | Pain: 8.0 | Symptoms: 9.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.779817] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.780066] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:40.975237
+Inactivity Level: High
+Reminder Count: 5
+
+==================================================
+PATIENT ID: 10
+Name: Heidi Doe
+Age: 64
+Gender: Male
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Bilateral inguinal hernias with the right side symptomatic — a right direct inguinal hernia with reducible abdominal wall defect causing significant discomfort during prolonged standing and physical exertion. Left-sided inguinal hernia detected incidentally on imaging — asymptomatic and managed conservatively pending the current right-sided repair. Patient with a history of heavy manual labour and chronic cough (ex-smoker, 30 pack-years) contributing to raised intra-abdominal pressure. COPD (GOLD Stage I) confirmed pre-operatively with spirometry.
+
+Symptoms:
+Right groin bulge — reducible, becomes irreducible with straining, associated with aching groin pain radiating to the right scrotum, worsening during the day, relieved when supine. Intermittent episodes of groin pain during physical exertion. Left groin fullness noted by patient but largely asymptomatic.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Right direct inguinal hernia with symptomatic bulge and exertional discomfort; left inguinal hernia — asymptomatic.
+
+Procedure Performed: Laparoscopic Totally Extraperitoneal (TEP) Right Inguinal Hernia Repair with mesh.
+
+Anesthesia: General endotracheal anesthesia with careful airway management given background COPD. Cefazolin 2g IV prophylaxis. Short-acting muscle relaxants employed for expedited extubation.
+
+Intraoperative Findings: Right direct inguinal hernia confirmed — defect in the posterior wall of the inguinal canal (Hasselbach's triangle). No indirect component. Peritoneum intact. Left inguinal region examined — small indirect defect noted; decision made to repair bilaterally during same anaesthetic to avoid second procedure.
+
+Surgical Technique: Balloon dissector used to create extraperitoneal preperitoneal space. Three 5mm trocars placed. Right direct hernia reduced under visualisation; posterior wall defect confirmed approximately 3cm × 2.5cm. 15cm × 10cm lightweight polypropylene mesh positioned to cover all three potential hernia sites bilaterally. Mesh fixed with two absorbable tacks. Peritoneum closed on CO2 release. All ports closed in layers.
+
+Estimated Blood Loss: Minimal, approximately 25 mL.
+
+Immediate Post-operative Condition: Extubated in theatre without difficulty. Haemodynamically stable. No intraoperative respiratory complications. Good air entry bilaterally on auscultation. Post-operative SpO2 97% on room air.
+
+Complications:
+Mild post-operative shoulder-tip pain secondary to CO2 gas — resolved spontaneously within 24 hours with ambulation and simple analgesia. Transient urinary hesitancy post-operatively related to pain and positioning — resolved without catheterisation. Port site bruising at all three sites — expected, non-concerning. Respiratory monitoring maintained for 24 hours post-op given COPD background; no respiratory compromise identified. Mild seroma formation at bilateral repair sites noted on Day 5 — managed conservatively with observation; spontaneous resolution expected.
+
+Recovery Plan:
+Hospital stay: 1–2 days. Full ambulation same day post-operatively. Return to light activity and office work: 1–2 weeks. Return to manual work: 4–6 weeks. Avoid straining, coughing without abdominal support, and heavy lifting for 6 weeks. Wound review at 7–10 days. Single outpatient follow-up at 6 weeks. Pulmonary review at 3 months with spirometry reassessment. Smoking cessation strongly reinforced. Respiratory physiotherapy: incentive spirometry and breathing exercises post-discharge. Diet: high-fibre diet; adequate hydration. Cough management with antitussives as required to reduce intra-abdominal pressure during recovery.
+
+Medications:
+1. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+3. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 5 days
+   Status: Active
+
+4. Salbutamol 100mcg Inhaler
+   Dosage: 1–2 puffs (100–200mcg)
+   Frequency: As needed (bronchodilator for COPD)
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.605074] Risk Score: 55.03734439834025 | Escalation: P2 | Pain: 6.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.604959] Risk Score: 78.14107883817427 | Escalation: P1 | Pain: 3.0 | Symptoms: 3.0
+[2026-03-01 01:42:40.604757] Risk Score: 38.439834024896264 | Escalation: P3 | Pain: 4.0 | Symptoms: 4.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.783917] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.784075] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:40.985182
+Inactivity Level: Medium
+Reminder Count: 1
+
+==================================================
+PATIENT ID: 11
+Name: Victor Miller
+Age: 28
+Gender: Other
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Avascular Necrosis (AVN) of the Right Femoral Head — ARCO Stage III, with partial collapse of the femoral head confirmed on MRI. Presumed secondary to prolonged high-dose corticosteroid therapy administered for treatment-refractory autoimmune condition. The patient presented with rapidly progressive right hip pain, an antalgic gait, and radiological evidence of crescent sign and early femoral head collapse. Conservative management with core decompression was attempted but failed to halt progression, necessitating surgical intervention.
+
+Symptoms:
+Severe right groin and hip pain (8/10 on VAS), worse with weight-bearing and relieved at rest, significant antalgic gait pattern, limited internal rotation and abduction of the right hip, progressive loss of function, and inability to participate in any physical activity. MRI confirmed Stage III AVN with >25% femoral head involvement.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Avascular Necrosis of the right femoral head, ARCO Stage III — with femoral head collapse; failed core decompression.
+
+Procedure Performed: Total Right Hip Arthroplasty (THA) — Anterolateral Approach (Modified Watson-Jones).
+
+Anesthesia: General anesthesia with laryngeal mask airway. Spinal component declined by patient. Cefazolin 2g IV prophylaxis administered. Cell salvage system deployed.
+
+Intraoperative Findings: Femoral head demonstrated partial superior dome collapse with a crescent sign on direct inspection. Acetabular cartilage partially preserved. Femoral head excised — cross-section confirmed avascular necrotic core with surrounding viable bone rim. Excellent bone stock throughout.
+
+Surgical Technique: Anterolateral approach with preservation of posterior capsule and short external rotators, minimising dislocation risk. Acetabulum prepared to 50mm; uncemented cementless titanium cup inserted at 40° abduction and 20° anteversion. Femoral canal broached to size 5; uncemented press-fit stem with 28mm ceramic femoral head. Intraoperative hip stability confirmed through full physiological ROM testing. All layers closed; skin closed with absorbable subcuticular sutures.
+
+Estimated Blood Loss: Approximately 290 mL. Cell salvage returned 120mL autologous blood. No allogeneic transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to recovery in excellent condition. Haemodynamically stable. Pain adequately managed. Hip ROM confirmed satisfactory with no impingement.
+
+Complications:
+Post-operative muscle soreness at the anterolateral approach site — expected, managed with analgesia. Transient reduced sensation over the lateral thigh (lateral cutaneous nerve territory) — expected, anticipated to resolve within 4–6 weeks. Prolonged DVT prophylaxis required given young age and planned prolonged post-operative activity restriction. Mood and psychological support arranged given young age and impact of long-term steroid dependency on recovery.
+
+Recovery Plan:
+Hospital stay: 3–4 days. Weight-bearing as tolerated with crutches from Day 1. Anterolateral approach permits fewer hip precautions — no dislocation precautions beyond 6 weeks. Physiotherapy daily during admission; outpatient physiotherapy 3×/week for 8 weeks. Return to desk work: 4 weeks. Return to full activity: 3 months. Rheumatology co-management for ongoing autoimmune condition — steroid-sparing agents reviewed. Follow-up: 2 weeks, 6 weeks, 3 months. Diet: calcium and vitamin D supplementation essential. Protein-rich diet. No smoking or alcohol (bone health and wound healing).
+
+Medications:
+1. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 35 days
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Cefuroxime 500mg
+   Dosage: 500mg
+   Frequency: Twice daily
+   Duration: 5 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.607383] Risk Score: 41.57676348547718 | Escalation: P2 | Pain: 8.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.607302] Risk Score: 37.6597510373444 | Escalation: P3 | Pain: 5.0 | Symptoms: 9.0
+[2026-03-01 01:42:40.607175] Risk Score: 63.96680497925311 | Escalation: P2 | Pain: 1.0 | Symptoms: 2.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.787409] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.787543] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:40.991451
+Inactivity Level: Low
+Reminder Count: 2
+
+==================================================
+PATIENT ID: 12
+Name: Frank Jones
+Age: 38
+Gender: Other
+Doctor: Dr. James Wilson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Post-traumatic Osteoarthritis of the Left Hip secondary to an acetabular fracture sustained in a motor vehicle accident 6 years prior, managed non-operatively at the time. Progressive joint space narrowing and subchondral sclerosis on serial radiographs have led to complete loss of articular cartilage with chronic debilitating pain now impacting occupational and social function. The patient has been on maximised analgesic therapy and engaged in physiotherapy without meaningful benefit over the preceding 12 months.
+
+Symptoms:
+Left hip pain (9/10 with activity, 5/10 at rest), antalgic gait with shortened stride length, limited hip flexion (55°), and painful internal and external rotation. Previous acetabular fracture site visible on CT with evidence of heterotopic ossification (Brooker Grade I). Significant reduction in quality of life with inability to engage in physical activity, work-related duties, or prolonged sitting.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Post-traumatic left hip osteoarthritis secondary to old acetabular fracture; heterotopic ossification grade I; complete articular cartilage loss.
+
+Procedure Performed: Total Left Hip Arthroplasty (THA) with heterotopic ossification excision — Posterior Approach.
+
+Anesthesia: General anesthesia with caudal epidural component for post-operative analgesia. Cefazolin 2g IV prophylaxis. Indometacin prescribed pre-operatively for heterotopic ossification prophylaxis.
+
+Intraoperative Findings: Prior fracture site well-consolidated but with significant periarticular scarring. Heterotopic ossification excised — limited and did not compromise implant placement. Femoral head: complete articular cartilage loss with subchondral cystic change. Acetabulum: flattened with prior fracture line visible. Bone quality excellent given patient age.
+
+Surgical Technique: Posterior approach. Short external rotators tagged and repaired at closure. Scar tissue excised. Acetabulum reamed to 52mm; uncemented press-fit cup inserted with optimal version. Femoral canal prepared; uncemented straight stem with 32mm ceramic head. Excellent hip stability confirmed through full ROM testing. Short external rotators repaired with transosseous sutures. Wound closed in layers.
+
+Estimated Blood Loss: Approximately 350 mL. No transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to PACU in satisfactory condition. Post-operative pain well controlled with epidural analgesia. Haemodynamically stable. No intraoperative complications.
+
+Complications:
+Risk of recurrent heterotopic ossification managed with post-operative indometacin course. Post-operative posterior hip precautions strictly enforced given posterior approach used. Wound site oedema and bruising — expected and managed with elevation and ice. Prolonged DVT risk managed with early anticoagulation. Post-operative physiotherapy commenced early to prevent stiffness secondary to prior scarring. Psychological support offered regarding adjustment to hip replacement at relatively young age.
+
+Recovery Plan:
+Hospital stay: 4–5 days. Weight-bearing with crutches from Day 1; two crutches for 6 weeks. Posterior hip precautions for 12 weeks (extended given prior scar tissue). Physiotherapy 3×/week for 8–10 weeks. Return to desk work: 6 weeks. Return to light physical work: 3 months. Strenuous activity and sport: 6 months. Indomethacin continued for 4 weeks post-op for HO prophylaxis. Follow-up: 2 weeks, 6 weeks, 3 months, 1 year. Diet: calcium and vitamin D supplementation; protein-rich diet for tissue repair.
+
+Medications:
+1. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 7 days
+   Status: Active
+
+3. Indomethacin 25mg
+   Dosage: 25mg
+   Frequency: Three times daily with food
+   Duration: 28 days (heterotopic ossification prophylaxis)
+   Status: Active
+
+4. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 14 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.609795] Risk Score: 91.41078838174275 | Escalation: P1 | Pain: 9.0 | Symptoms: 4.0
+[2026-02-22 01:42:40.609362] Risk Score: 36.738589211618255 | Escalation: P3 | Pain: 7.0 | Symptoms: 8.0
+[2026-03-01 01:42:40.609247] Risk Score: 12.45643153526971 | Escalation: P3 | Pain: 7.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.790385] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.790507] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-24 01:42:40.996417
+Inactivity Level: Medium
+Reminder Count: 1
+
+==================================================
+PATIENT ID: 13
+Name: Bob Davis
+Age: 53
+Gender: Male
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Moderate-to-severe right knee osteoarthritis with predominant medial compartment disease, confirmed by weight-bearing radiographs demonstrating significant joint space narrowing with 6° varus alignment. Patient also demonstrates patellofemoral compartment involvement with posterior knee pain on knee extension. Failed 2 years of conservative management including physiotherapy, oral NSAIDs, and bilateral corticosteroid injections. Occupational demands (manual labour) have accelerated disease progression, with MRI confirming bone marrow oedema and subchondral insufficiency fractures.
+
+Symptoms:
+Right knee pain (7/10 on VAS), bilateral knee stiffness worse in the morning lasting 30 minutes, joint crepitus on movement, recurrent moderate effusions requiring aspiration on two occasions, limited flexion at 95°, pain and swelling after prolonged weight-bearing, and disrupted night sleep secondary to knee pain.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Moderate-to-severe right knee osteoarthritis with medial and patellofemoral compartment involvement; failed conservative management.
+
+Procedure Performed: Total Right Knee Arthroplasty (TKA) — Medial Parapatellar Approach with patellar resurfacing.
+
+Anesthesia: Spinal anesthesia with combined femoral and sciatic nerve blocks for peri-operative analgesia. Cefazolin 2g IV prophylaxis. Tourniquet at 300 mmHg.
+
+Intraoperative Findings: Medial compartment — complete loss of articular cartilage with bone-on-bone contact. Patellofemoral joint — grade III chondral loss with patellar maltracking. Posterior cruciate ligament functionally intact but thinned. Posterior-stabilised design selected for predictable kinematics.
+
+Surgical Technique: Medial parapatellar arthrotomy. Distal femoral cut perpendicular to the mechanical axis. Tibial cut at 90° to tibial shaft with 3° posterior slope. Patellar button resurfaced. Balanced flexion and extension gaps confirmed. PS femoral component, flat tibial baseplate with PS poly insert, and all-poly patellar component — cemented with high-viscosity cement. Full haemostasis achieved. Tourniquet released. Wound closed in layers over drain.
+
+Estimated Blood Loss: Approximately 340 mL. No intraoperative transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to PACU in satisfactory condition. Nerve block providing excellent analgesia. Haemodynamically stable. Drain output 55mL at 2 hours. Bilateral lower limb neurovascular status intact.
+
+Complications:
+Post-operative knee stiffness on Day 1 — aggressive physiotherapy initiated with passive and active range of motion exercises. Mild posterior knee pain secondary to nerve block wear-off managed with oral tramadol. Drain removed at 36 hours (total output 160mL). Expected wound bruising and oedema managed with elevation and cold compression. DVT prophylaxis maintained. Risk of deep wound infection monitored closely; patient advised on wound hygiene.
+
+Recovery Plan:
+Hospital stay: 4–5 days. Target ROM: 0–90° at discharge; 0–110° at 6 weeks. Physiotherapy daily during admission, outpatient 3×/week for 8 weeks. Patient advised on occupational modification — return to manual labour delayed to 4–6 months; office work return at 6–8 weeks. Aquatic physiotherapy at 6–8 weeks if available. Stair negotiation training by Day 4. Follow-up: 2 weeks (wound review), 6 weeks (X-ray and functional review), 3 months, 1 year. Diet: protein and calcium-rich diet; adequate hydration; avoid NSAIDs for 4 weeks post-op.
+
+Medications:
+1. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Atorvastatin 20mg
+   Dosage: 20mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+3. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 14 days
+   Status: Active
+
+4. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.613421] Risk Score: 21.991701244813278 | Escalation: P3 | Pain: 8.0 | Symptoms: 2.0
+[2026-02-22 01:42:40.613312] Risk Score: 15.286307053941911 | Escalation: P3 | Pain: 5.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.613135] Risk Score: 38.43153526970954 | Escalation: P3 | Pain: 4.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.794393] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.794561] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-25 01:42:40.999794
+Inactivity Level: Low
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 14
+Name: Jane Williams
+Age: 29
+Gender: Female
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Gangrenous Appendicitis with localised perforation and periappendiceal abscess formation. Patient presented 52 hours after symptom onset with clinical peritonism and systemic inflammatory response. CT abdomen confirmed a dilated appendix (diameter 12mm) with wall disruption, periappendiceal fluid collection, and fat stranding extending into the pelvis. WBC 21.4 × 10⁹/L with marked neutrophilia and elevated CRP (218 mg/L). IV antibiotics commenced on admission and maintained until definitive surgical intervention.
+
+Symptoms:
+Severe right iliac fossa and suprapubic pain with peritoneal irritation signs, fever (39.1°C) with rigors, nausea and vomiting, anorexia, inability to ambulate due to pain, and guarding and rigidity on abdominal examination. Alvarado score 9/10.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute gangrenous appendicitis with localised perforation and periappendiceal abscess.
+
+Procedure Performed: Laparoscopic Appendectomy with peritoneal lavage.
+
+Anesthesia: General endotracheal anesthesia. IV Piperacillin-Tazobactam 4.5g continued from admission. Nasogastric tube inserted pre-operatively.
+
+Intraoperative Findings: Acutely inflamed, gangrenous appendix with a 4mm perforation at the mid-body. Periappendiceal abscess (approx. 30mL of purulent fluid) noted. No generalised soiling. Omentum adherent to appendix. Pelvic peritoneum with mild inflammatory exudate. Caecum and terminal ileum unremarkable.
+
+Surgical Technique: 12mm umbilical port, 5mm right iliac fossa and suprapubic ports. Omental adhesions divided carefully. Appendix mobilised — gangrenous segment fragile; handled with care using grasper. Endoloops × 3 applied to the base. Appendix divided and retrieved in protective bag. Periappendiceal abscess fully drained. Pelvis and right paracolic gutter copiously lavaged with 4L warm saline. Suction drainage of residual fluid. Port sites closed; umbilical fascia closed with 0-vicryl.
+
+Estimated Blood Loss: Approximately 60 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in satisfactory condition. Temperature 38.2°C — antipyretics administered. IV antibiotics continued post-operatively. Nasogastric tube maintained. Pain adequately controlled.
+
+Complications:
+Post-operative fever (38.4°C) on Day 1, managed with IV Piperacillin-Tazobactam and antipyretics — resolved by Day 3. Prolonged post-operative ileus with nasogastric drainage of 200mL on Day 1 — NG tube removed at 48 hours when bowel sounds returned and flatus passed. Pelvic drain removed at 72 hours with serous output reducing. Given young age, risk of post-operative intra-abdominal adhesion formation discussed. No wound dehiscence. Risk of port site infection monitored.
+
+Recovery Plan:
+Hospital stay: 4–6 days given peritoneal contamination. Oral diet resumed from Day 3 after ileus resolution. Full ambulation by Day 2. Return to normal activity: 3–4 weeks. Return to work: 2–3 weeks. No heavy lifting for 4 weeks. Wound review at 10 days. Follow-up at 6 weeks. Patient counselled on signs of intra-abdominal abscess recurrence (fever, abdominal pain). Diet: soft diet initially, progressing to normal diet. High-fibre diet to prevent constipation during recovery.
+
+Medications:
+1. Atorvastatin 10mg
+   Dosage: 10mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 7 days (step-down from IV antibiotics)
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Lisinopril 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.616777] Risk Score: 11.045643153526969 | Escalation: P3 | Pain: 5.0 | Symptoms: 1.0
+[2026-02-22 01:42:40.616694] Risk Score: 13.37759336099585 | Escalation: P3 | Pain: 3.0 | Symptoms: 8.0
+[2026-03-01 01:42:40.616551] Risk Score: 26.829875518672196 | Escalation: P3 | Pain: 8.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.798797] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.798935] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-24 01:42:41.002784
+Inactivity Level: Medium
+Reminder Count: 0
+
+==================================================
+PATIENT ID: 15
+Name: Judy Brown
+Age: 74
+Gender: Other
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Bilateral umbilical and incisional hernia with the primary umbilical defect measuring 4cm on CT, containing a large omental plug with intermittent bowel herniation on Valsalva manoeuvre. The patient has experienced progressive herniation over 4 years with the defect becoming irreducible during a prolonged coughing episode 3 weeks prior to admission. No signs of strangulation on examination or imaging. Background of obesity (BMI 34), ascites secondary to non-alcoholic fatty liver disease (NAFLD), and previous midline laparotomy for colonic resection 12 years prior contributing to the incisional defect.
+
+Symptoms:
+Visible and palpable periumbilical bulge with overlying skin excoriation from chronic incarceration, abdominal discomfort particularly on straining and Valsalva, post-prandial bloating, intermittent nausea, and cosmetic concern. Skin over the hernia sac showing areas of chronic maceration.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Symptomatic umbilical hernia with acute-on-chronic incarceration; incisional hernia from prior midline laparotomy.
+
+Procedure Performed: Open Umbilical Hernia Repair and Incisional Hernia Repair with composite mesh.
+
+Anesthesia: General endotracheal anesthesia with careful aspiration precautions given obesity. Cefazolin 2g IV prophylaxis. Compression stockings applied pre-operatively.
+
+Intraoperative Findings: 4cm fascial defect at the umbilicus with chronically incarcerated omentum. Manual reduction achieved without bowel involvement. Incisional hernia defect 6cm × 3cm at lower midline scar. Fascia attenuated around both defects. Peritoneum intact. No signs of strangulation.
+
+Surgical Technique: Elliptical skin excision around umbilicus incorporating excoriated skin. Hernia sac fully dissected and opened. Omental contents reduced. Posterior sheath developed. 30cm × 25cm dual-layer composite mesh (non-adhesive peritoneal surface) placed intraperitoneally with 5cm overlap beyond all fascial edges. Mesh secured with transfascial sutures and absorbable tacks. Anterior abdominal wall closed in layers with tension-free technique. Subcutaneous space closed with 2-0 vicryl. Skin closed with interrupted nylon sutures given prior excoriation.
+
+Estimated Blood Loss: Approximately 90 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in stable condition. Haemodynamically stable. Abdomen closed without tension. Respiratory function maintained on room air. IV fluid resuscitation administered given significant third-space loss.
+
+Complications:
+Post-operative pyrexia (38.5°C) on Day 1 and Day 2 — wound cultures obtained; no growth; responded to IV cefazolin and resolved by Day 3. Mild seroma along the incisional repair at Day 5 — managed conservatively with compression dressing and daily review. Abdominal distension on Day 1 managed with nasogastric tube and nil-by-mouth for 24 hours — bowel sounds returned on Day 2; oral intake re-established on Day 3. Prolonged ileus risk managed with early ambulation. DVT risk — high given obesity, age, and duration of surgery; extended prophylaxis prescribed.
+
+Recovery Plan:
+Hospital stay: 4–6 days. Ambulation commencing Day 1 post-op with abdominal binder support. No straining, Valsalva, or heavy lifting for 8 weeks. Abdominal binder to be worn continuously for 6 weeks. Wound review at 10 days and 4 weeks. Dietitian review for weight management — target BMI reduction <30 at 6 months. Outpatient follow-up at 6 weeks with CT abdomen at 3 months to confirm mesh position. Ascites management reviewed with gastroenterology. Diet: low-sodium, low-fat, high-fibre diet. Adequate protein. Avoid constipation and straining — osmotic laxatives prescribed.
+
+Medications:
+1. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+3. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 10 days
+   Status: Active
+
+4. Lactulose 10g Sachet
+   Dosage: 10g
+   Frequency: Twice daily
+   Duration: 4 weeks (prevention of constipation and straining)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.619412] Risk Score: 44.25726141078838 | Escalation: P2 | Pain: 7.0 | Symptoms: 5.0
+[2026-02-22 01:42:40.619300] Risk Score: 50.788381742738586 | Escalation: P2 | Pain: 5.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.619094] Risk Score: 50.15767634854772 | Escalation: P2 | Pain: 4.0 | Symptoms: 3.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.804581] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.804722] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:41.006061
+Inactivity Level: Medium
+Reminder Count: 5
+
+==================================================
+PATIENT ID: 16
+Name: Eve Miller
+Age: 28
+Gender: Female
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Perforated Appendicitis with generalised peritoneal contamination. Patient presented to the Emergency Department with a 72-hour history of progressive abdominal pain, initially periumbilical but now generalised. Clinical examination revealed generalised peritonism with board-like abdominal rigidity. CT abdomen confirmed a ruptured appendix with free intraperitoneal gas, generalised peritoneal fluid, and multiple early periappendiceal collections. WBC 24.8 × 10⁹/L and CRP 340 mg/L. Urgent surgical intervention indicated.
+
+Symptoms:
+Generalised abdominal pain (10/10), high fever (39.8°C) with tachycardia (HR 118bpm), generalised peritonism, board-like abdominal rigidity, marked guarding, absent bowel sounds, dehydration, and systemic inflammatory response syndrome (SIRS) criteria met on presentation. Haemodynamically compromised on admission requiring IV fluid resuscitation.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Perforated appendicitis with generalised faecal peritonitis.
+
+Procedure Performed: Emergency Laparotomy with Appendectomy and Peritoneal Lavage. Conversion from attempted laparoscopic approach due to generalised contamination.
+
+Anesthesia: Rapid sequence induction (RSI) general endotracheal anesthesia. IV Piperacillin-Tazobactam 4.5g and Metronidazole 500mg IV administered. ICU liaison pre-operatively.
+
+Intraoperative Findings: Generalised faecal peritonitis with frank faecal contamination throughout the peritoneal cavity. Appendix identified — perforated at mid-body with a 1cm defect, gangrenous distal segment. Multiple purulent collections in the pelvis, paracolic gutters, and subhepatic space. Terminal ileum and caecum inflamed but viable.
+
+Surgical Technique: Emergency midline laparotomy. Appendix mobilised carefully — base healthy; appendix excised between clamps. Stump ligated with 0-vicryl and inverted with Z-suture into caecum. Peritoneal cavity irrigated with 12 litres warm saline until returns clear. Peritoneal sampling sent for MC&S. Two Robinson drains placed in the pelvis and right paracolic gutter. Fascia closed with loop PDS. Skin left partially open for delayed primary closure given contamination.
+
+Estimated Blood Loss: Approximately 120 mL.
+
+Immediate Post-operative Condition: Patient transferred to Surgical ICU intubated, haemodynamically stabilised on IV fluids and vasopressors. Temperature 38.6°C. Urine output maintained. IV broad-spectrum antibiotics continued.
+
+Complications:
+Post-operative systemic inflammatory response continued for 72 hours — managed with IV antibiotics (de-escalated to Cefuroxime and Metronidazole at 72 hours based on culture sensitivities showing E. coli susceptible to cephalosporins). Wound left open — delayed primary closure performed at Day 5 with satisfactory healing. Pelvis drain removed at Day 6 (output reduced to serous <20mL/24h). Post-operative ileus lasting 72 hours — managed with NG decompression, early ambulation, and IV fluids. Elevated liver enzymes (transaminitis) noted on Day 3 — likely reactive; normalised by Day 7. No intra-abdominal abscess identified on post-operative imaging at Day 7.
+
+Recovery Plan:
+Hospital stay: 8–12 days. ICU: 48–72 hours. Wound management: twice-daily dressing changes with delayed closure technique. Full oral diet re-established Day 5. Full ambulation by Day 4. Return to work: 6 weeks. No heavy lifting or strenuous activity for 8 weeks. Wound review at 10 days and 4 weeks. Follow-up at 6 weeks and 3 months to confirm full recovery and rule out adhesion complications. Diet: high-protein, high-fibre diet to support wound healing and gut recovery. Probiotic supplementation advised following prolonged antibiotic course.
+
+Medications:
+1. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 7 days (step-down from IV)
+   Status: Active
+
+2. Metronidazole 400mg
+   Dosage: 400mg
+   Frequency: Three times daily
+   Duration: 5 days
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Tramadol 50mg
+   Dosage: 50mg
+   Frequency: Every 8 hours as needed
+   Duration: 5 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.621915] Risk Score: 14.995850622406639 | Escalation: P3 | Pain: 3.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.621800] Risk Score: 71.4688796680498 | Escalation: P2 | Pain: 5.0 | Symptoms: 8.0
+[2026-03-01 01:42:40.621598] Risk Score: 93.23651452282157 | Escalation: P1 | Pain: 10.0 | Symptoms: 10.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.808466] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.808607] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-25 01:42:41.008785
+Inactivity Level: Low
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 17
+Name: Frank Martinez
+Age: 31
+Gender: Male
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Developmental Dysplasia of the Hip (DDH) with secondary osteoarthritis of the right hip. The patient has a documented history of untreated mild acetabular dysplasia identified in childhood but not operatively managed. Progressive loading of the incompletely covered femoral head has resulted in progressive articular cartilage loss, labral tears, and early arthritic changes confirmed on MRI. Pain has become functionally limiting, preventing the patient from engaging in employment and daily activities. Pelvic radiographs demonstrate lateral centre-edge angle of 10° (severely dysplastic) with joint space narrowing.
+
+Symptoms:
+Right groin and lateral hip pain (7/10 on VAS), clicking and catching sensation within the right hip, pain exacerbated by prolonged standing or walking >500 metres, positive FADIR (Flexion-Adduction-Internal Rotation) test, restricted internal rotation, and beginning limitation in hip flexion.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Developmental dysplasia of the right hip with secondary osteoarthritis; lateral CE angle 10°; labral tear on MRI.
+
+Procedure Performed: Total Right Hip Arthroplasty (THA) with acetabular augmentation — Anterolateral Approach.
+
+Anesthesia: Spinal anesthesia with sedation. Cefazolin 2g IV prophylaxis. Cell salvage deployed.
+
+Intraoperative Findings: Deficient acetabular coverage with a shallow acetabulum confirmed. Femoral head: moderate articular cartilage loss (Grade III ICRS). Labrum: posterior labral tear confirmed and debrided. Acetabulum required reaming to 48mm (smaller diameter given dysplastic anatomy). Psoas impingement noted.
+
+Surgical Technique: Anterolateral approach. Acetabulum prepared carefully to avoid medialization. 50mm cup with supplementary screw fixation and 15mm elevated rim liner to optimise coverage given dysplastic anatomy. 28mm ceramic femoral head on modular neck for appropriate leg length restoration. Psoas tendon partially released. Hip stability confirmed through full ROM. Anterolateral wound closed in layers.
+
+Estimated Blood Loss: Approximately 310 mL. Cell salvage returned 95mL. No allogeneic transfusion.
+
+Immediate Post-operative Condition: Patient stable in PACU. Spinal analgesia adequate. Haemodynamically stable. Leg lengths confirmed clinically equal post-operatively.
+
+Complications:
+Mild post-operative trochanteric bursitis pain managed with ice and anti-inflammatory medication. Transient post-operative limping secondary to psoas release — expected, resolving by Week 3. Prolonged DVT risk given young patient and early post-operative immobility period. No dislocation or wound complications noted. Post-operative leg length inequality monitored with clinical assessment and heel-raise therapy as needed.
+
+Recovery Plan:
+Hospital stay: 3–4 days. Weight-bearing as tolerated from Day 1 with one elbow crutch. No dislocation precautions with anterolateral approach. Physiotherapy commenced Day 1; outpatient 3×/week for 8 weeks including hip strengthening and core stability programme. Return to light work: 4 weeks. Sport and strenuous activity: 6 months. Follow-up: 2 weeks, 6 weeks (standing pelvis X-ray), 3 months, 1 year. Diet: calcium, vitamin D supplementation; adequate protein intake. Weight maintenance encouraged.
+
+Medications:
+1. Amlodipine 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 5 days
+   Status: Active
+
+3. Rivaroxaban 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: 14 days
+   Status: Active
+
+4. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.624448] Risk Score: 13.676348547717843 | Escalation: P3 | Pain: 6.0 | Symptoms: 8.0
+[2026-02-22 01:42:40.624342] Risk Score: 24.232365145228215 | Escalation: P3 | Pain: 2.0 | Symptoms: 10.0
+[2026-03-01 01:42:40.624172] Risk Score: 32.77178423236515 | Escalation: P3 | Pain: 5.0 | Symptoms: 3.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.816140] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.816260] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-24 01:42:41.016614
+Inactivity Level: Medium
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 18
+Name: Alice Miller
+Age: 34
+Gender: Male
+Doctor: Dr. Emily Chen
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Hypertrophic Obstructive Cardiomyopathy (HOCM) with severe left ventricular outflow tract (LVOT) obstruction (peak gradient 80 mmHg at rest, 120 mmHg with provocation on Doppler echocardiography). Patient refractory to maximal medical therapy with beta-blockers and disopyramide. Presenting with NYHA Class III symptoms. Cardiac MRI confirmed septal thickness of 24mm with systolic anterior motion (SAM) of the mitral valve and moderate mitral regurgitation.
+
+Symptoms:
+Severe exertional dyspnoea, chest pain on moderate exertion, presyncope on two occasions during physical activity, palpitations, progressive fatigue, and reduced functional capacity significantly limiting daily life. Holter monitoring demonstrated frequent non-sustained ventricular tachycardia.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Hypertrophic Obstructive Cardiomyopathy (HOCM) with severe LVOT obstruction, refractory to medical therapy; NYHA Class III; NSVT on Holter.
+
+Procedure Performed: Surgical Septal Myectomy (Morrow Procedure) with concurrent mitral valve repair.
+
+Anesthesia: General endotracheal anesthesia with full haemodynamic monitoring including TOE (transoesophageal echocardiography) for real-time assessment. Cardiopulmonary bypass established.
+
+Intraoperative Findings: Septal thickness confirmed at 24mm on TOE. Systolic anterior motion of the anterior mitral leaflet confirmed as major contributor to LVOT obstruction. Mitral regurgitation (moderate, central jet) attributed to SAM mechanism. No independent mitral valve structural pathology.
+
+Surgical Technique: Median sternotomy. Standard CPB. Cardiac arrest with cold blood cardioplegia. Aortotomy performed. Surgical myectomy performed through the aortic valve: approximately 8g of hypertrophic septal muscle excised. TOE confirmed abolition of LVOT gradient (residual gradient 8 mmHg) and elimination of SAM. Mitral valve inspected — minimal residual regurgitation (trivial); formal repair not required. Heart de-aired and decannulated. Patient weaned from bypass without difficulty.
+
+Estimated Blood Loss: Approximately 500 mL. One unit PRBC transfused post-bypass.
+
+Immediate Post-operative Condition: Patient transferred to Cardiac ICU intubated. Extubated at 7 hours. TOE post-op confirmed excellent result with resolved LVOT obstruction and minimal MR. Haemodynamically stable. Cardiac rhythm: sinus.
+
+Complications:
+Transient complete heart block on Day 1 (anticipated complication of septal myectomy) managed with temporary pacing wire — normal AV conduction restored by Day 2; permanent pacemaker not required. Mild post-operative pleural effusion (right sided) — managed conservatively without drainage; resolved by Day 6. Post-operative anaemia (Hb 9.0 g/dL) managed with oral iron supplementation. Mild wound discomfort along sternotomy managed with scheduled analgesia.
+
+Recovery Plan:
+Hospital stay: 8–10 days including 48 hours Cardiac ICU. Sternal precautions for 8 weeks. Cardiac rehabilitation at 6 weeks post-discharge, 3×/week for 12 weeks. ICD (Implantable Cardioverter-Defibrillator) implantation planned at 4–6 weeks given documented NSVT — cardiology review. No driving for 6 weeks. Restriction on strenuous competitive activity long-term. Electrophysiology review at 6 weeks. Echo at 3 months. Genetic counselling and family screening recommended. Diet: low-sodium, heart-healthy. Avoidance of dehydration and alcohol.
+
+Medications:
+1. Bisoprolol 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Lifelong
+   Status: Active
+
+2. Warfarin 3mg
+   Dosage: 3mg (dose adjusted per INR target 2.0–3.0)
+   Frequency: Once daily
+   Duration: 3 months (post-op anticoagulation)
+   Status: Active
+
+3. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days (pericardial inflammation prevention)
+   Status: Active
+
+4. Furosemide 40mg
+   Dosage: 40mg
+   Frequency: Once daily
+   Duration: 4 weeks (post-surgical fluid management)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.629175] Risk Score: 68.94605809128632 | Escalation: P2 | Pain: 6.0 | Symptoms: 8.0
+[2026-02-22 01:42:40.628908] Risk Score: 54.78008298755187 | Escalation: P2 | Pain: 3.0 | Symptoms: 9.0
+[2026-03-01 01:42:40.628619] Risk Score: 69.7344398340249 | Escalation: P2 | Pain: 2.0 | Symptoms: 2.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.819746] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.819883] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-24 01:42:41.020240
+Inactivity Level: Low
+Reminder Count: 0
+
+==================================================
+PATIENT ID: 19
+Name: Peggy Davis
+Age: 20
+Gender: Female
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Right-sided indirect inguinal hernia, congenital in origin, presenting with acute incarceration. The patient reported a known right groin swelling since the age of 16, previously managed expectantly. She presented acutely with sudden onset irreducible groin swelling and severe pain following vigorous exercise. Clinical examination confirmed a tense, tender, irreducible right inguinal hernia. Emergency ultrasound confirmed bowel loop within the hernia sac with maintained vascularity — no strangulation at presentation. Emergency surgical intervention performed within 4 hours of presentation.
+
+Symptoms:
+Severe right groin pain (9/10), irreducible tense swelling in the right inguinal region, nausea and vomiting, difficulty ambulating secondary to pain, and low-grade fever (37.8°C) on presentation. No signs of strangulation on ultrasound Doppler.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute incarceration of a right indirect inguinal hernia; no strangulation confirmed on imaging; urgent surgical repair indicated.
+
+Procedure Performed: Open Right Inguinal Hernia Repair (Bassini Repair without mesh — given young age and desire to preserve native tissue).
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g prophylaxis. Spinal option offered and declined.
+
+Intraoperative Findings: Indirect hernia sac identified traversing the internal inguinal ring and extending into the upper scrotum (right labia majora). Hernia sac contents: small bowel loop — viable, congested but not gangrenous following gentle manual reduction. Internal ring significantly dilated at 2.5cm. Posterior inguinal wall intact.
+
+Surgical Technique: Groin crease incision. External oblique aponeurosis opened. Hernia sac identified and carefully dissected free of cord structures. Sac reduced. High ligation of the sac performed. Internal ring narrowed with interrupted non-absorbable sutures. Primary tissue repair of the posterior inguinal wall using Bassini technique (conjoined tendon approximated to the inguinal ligament). No mesh placed given patient age, tissue quality, and minimal tension achieved. Wound closed in layers.
+
+Estimated Blood Loss: Minimal, approximately 35 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in stable condition. Excellent pain control with IV morphine. Haemodynamically stable. No intraoperative complications.
+
+Complications:
+Post-operative fever (38.2°C) on Day 1, attributed to mild inflammatory response from acute incarceration; resolved with antipyretics and IV antibiotics continued for 24 hours — wound cultures negative. Groin ecchymosis and scrotal/labial swelling — expected and managed with scrotal support, elevation, and ice packs; resolving by Day 4. Nausea post-general anesthesia managed with ondansetron. No urinary retention. DVT risk low given young age — compression stockings applied; pharmacological prophylaxis avoided given patient preference and low-risk profile.
+
+Recovery Plan:
+Hospital stay: 2 days. Full mobilisation from Day 1. Return to normal activity: 2 weeks. Return to exercise and sport: 4–6 weeks. No straining or heavy lifting for 6 weeks. Wound review at 7 days. Follow-up at 6 weeks. Patient counselled on risk of hernia recurrence given primary repair (5–15% at 10 years) and to return if recurrence detected. Diet: high-fibre diet to prevent constipation. Adequate hydration.
+
+Medications:
+1. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+2. Paracetamol 500mg
+   Dosage: 500mg
+   Frequency: Every 6 hours
+   Duration: 7 days
+   Status: Active
+
+3. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 3 days (short-course prophylaxis following acute incarceration)
+   Status: Active
+
+4. Ondansetron 4mg
+   Dosage: 4mg
+   Frequency: As needed for nausea (maximum twice daily)
+   Duration: 2 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.633447] Risk Score: 51.477178423236516 | Escalation: P2 | Pain: 4.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.633290] Risk Score: 46.71369294605809 | Escalation: P2 | Pain: 1.0 | Symptoms: 7.0
+[2026-03-01 01:42:40.633006] Risk Score: 25.302904564315355 | Escalation: P3 | Pain: 7.0 | Symptoms: 1.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.823405] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.823578] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:41.023074
+Inactivity Level: Low
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 20
+Name: John Doe
+Age: 47
+Gender: Male
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Appendicitis with periappendiceal phlegmon in the setting of a retrocaecal appendix, confirmed on CT abdomen. Patient presented after 48 hours of right-sided abdominal pain with a retrocaecal appendix making clinical diagnosis delayed. CT demonstrated a thick-walled appendix with periappendiceal inflammatory change and a small phlegmon — no free gas or perforation confirmed. IV antibiotics initiated on admission; progression to surgical management decided after 12 hours of inadequate response to antibiotic therapy alone.
+
+Symptoms:
+Progressive right flank and right iliac fossa pain (7/10), worsening over 48 hours, fever (38.6°C), anorexia, nausea, right posterior flank tenderness, positive Psoas sign, WBC 17.4 × 10⁹/L with neutrophilia, and elevated CRP (162 mg/L).
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute appendicitis with periappendiceal phlegmon — retrocaecal appendix; inadequate response to conservative antibiotic management.
+
+Procedure Performed: Laparoscopic Appendectomy — Three-Port Technique with retrograde dissection.
+
+Anesthesia: General endotracheal anesthesia. IV Cefuroxime 1.5g and Metronidazole 500mg administered pre-incision.
+
+Intraoperative Findings: Retrocaecal appendix identified adherent to the posterior peritoneum. Periappendiceal phlegmon with organised inflammatory mass — no free perforation. Appendix distended with acute suppurative inflammation, base viable. Retrograde appendectomy technique employed due to restricted access.
+
+Surgical Technique: 12mm umbilical port, two 5mm working ports. Caecum reflected medially. Posterior peritoneum divided. Appendix dissected from tip to base in retrograde fashion. Appendicular artery clipped and divided. Two endoloops placed at the base. Appendix excised and retrieved in retrieval bag. Periappendiceal phlegmon irrigated with warm saline. Port sites closed. Umbilical fascia closed with 0-vicryl.
+
+Estimated Blood Loss: Approximately 45 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in satisfactory condition. Haemodynamically stable. Temperature 37.6°C on transfer. Pain adequately controlled. Tolerating sips of water.
+
+Complications:
+Post-operative mild fever (38.1°C) on Day 1 resolving by Day 2 with continuing IV antibiotics stepped down to oral. Mild post-operative ileus for 24 hours — managed with early ambulation and IV fluids; bowel sounds returned and flatus passed by Day 2. Port site discomfort at the 12mm umbilical port — managed with oral analgesia and wound support. No significant complications identified.
+
+Recovery Plan:
+Hospital stay: 3–4 days given phlegmon. Oral diet resumed Day 2. Full ambulation by Day 1. Return to desk work: 2 weeks. Return to manual labour: 6 weeks. Wound review at 10 days. Follow-up at 6 weeks with CT abdomen at 8 weeks to confirm phlegmon resolution. Diet: soft diet initially, progressing to normal. High-fibre diet and adequate hydration. Alcohol restriction for 4 weeks.
+
+Medications:
+1. Lisinopril 10mg
+   Dosage: 10mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 7 days
+   Status: Active
+
+3. Metronidazole 400mg
+   Dosage: 400mg
+   Frequency: Three times daily
+   Duration: 5 days
+   Status: Active
+
+4. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.637661] Risk Score: 18.373443983402492 | Escalation: P3 | Pain: 9.0 | Symptoms: 9.0
+[2026-02-22 01:42:40.637487] Risk Score: 53.12033195020748 | Escalation: P2 | Pain: 1.0 | Symptoms: 3.0
+[2026-03-01 01:42:40.637264] Risk Score: 25.95850622406639 | Escalation: P3 | Pain: 9.0 | Symptoms: 7.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.831114] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.831259] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:41.025888
+Inactivity Level: Medium
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 21
+Name: Jane Rodriguez
+Age: 69
+Gender: Other
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Appendicitis with early pelvic peritonitis in an elderly patient with delayed clinical presentation due to atypical pain distribution secondary to age-related visceral pain perception changes. CT confirmed a distended, thick-walled appendix measuring 11mm in diameter with periappendiceal fat stranding extending into the pelvis. WBC 19.6 × 10⁹/L. Background of Type 2 Diabetes Mellitus (HbA1c 8.2%) and hypertension — both requiring perioperative optimisation.
+
+Symptoms:
+Diffuse lower abdominal pain of 4-day duration, more prominent on the right side, associated with low-grade fever (37.9°C), anorexia, nausea, one episode of vomiting, mild diarrhoea, and a tender lower abdomen on palpation. Alvarado score 7/10. Atypical presentation initially considered but imaging confirmed appendicitis.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute appendicitis with early pelvic peritonitis in elderly diabetic patient with atypical presentation.
+
+Procedure Performed: Laparoscopic Appendectomy with pelvic peritoneal lavage.
+
+Anesthesia: General endotracheal anesthesia with careful blood glucose monitoring. Cefazolin 2g IV and Metronidazole 500mg IV administered pre-incision. Insulin infusion commenced pre-operatively. Compression stockings applied.
+
+Intraoperative Findings: Inflamed, distended appendix with serosal inflammation and early pelvic peritoneal involvement. Approximately 80mL of turbid peritoneal fluid in the pelvis. No perforation. Appendicular base healthy. Pelvic adhesions from previous (historic) right-sided gynaecological pathology noted — carefully divided.
+
+Surgical Technique: Three-port laparoscopic technique. Adhesions divided with careful dissection. Appendix mobilised and endoloops applied × 3. Appendix retrieved in bag. Pelvis irrigated with 2L warm saline. Suction drain placed in pelvis. All ports closed. Skin with subcuticular sutures.
+
+Estimated Blood Loss: Approximately 40 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in stable condition. Blood glucose 9.2 mmol/L managed with insulin sliding scale. Temperature 37.5°C. Haemodynamically stable. Pelvis drain output 30mL in recovery.
+
+Complications:
+Hyperglycaemia (blood glucose up to 14 mmol/L) managed with sliding scale insulin protocol — normalised by Day 2. Post-operative mild fever on Day 1 managed with antibiotics and antipyretics — resolved by Day 3. Pelvis drain removed at 48 hours (output 55mL clear serous fluid). Expected wound discomfort at port sites managed with oral analgesia. Elevated DVT risk managed with low-molecular-weight heparin and compression stockings. Elderly patient monitored for post-operative delirium — none occurred.
+
+Recovery Plan:
+Hospital stay: 4–5 days. Oral diet commenced Day 2 after ileus resolution. Full ambulation by Day 2. Diabetic management plan updated at discharge with endocrinology referral. Return to normal activity: 3–4 weeks. Wound review at 10 days. Follow-up at 6 weeks with diabetic review and HbA1c assessment. Diet: diabetic diet with high fibre. Adequate hydration. Low-fat, moderate carbohydrate diet. Blood pressure monitoring at home.
+
+Medications:
+1. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 5 days
+   Status: Active
+
+2. Metformin 500mg
+   Dosage: 500mg
+   Frequency: Twice daily with meals (restarted 48 hours post-op)
+   Duration: Ongoing
+   Status: Active
+
+3. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Losartan 50mg
+   Dosage: 50mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.641158] Risk Score: 44.98755186721991 | Escalation: P2 | Pain: 6.0 | Symptoms: 2.0
+[2026-02-22 01:42:40.640994] Risk Score: 43.53526970954357 | Escalation: P2 | Pain: 7.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.640764] Risk Score: 32.580912863070544 | Escalation: P3 | Pain: 9.0 | Symptoms: 9.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.834472] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.834596] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-24 01:42:41.030426
+Inactivity Level: Low
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 22
+Name: Victor Miller
+Age: 26
+Gender: Other
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Posterior Subcapsular Cataract of the Left Eye, secondary to long-term corticosteroid use for an underlying inflammatory condition, causing rapidly progressive visual impairment. The lens opacity significantly compromises visual acuity and quality of life. Best-corrected visual acuity in the affected left eye: 6/60. The right eye is unaffected. Optical biometry completed pre-operatively with A-constant calculation for IOL power selection. Patient well-informed regarding surgical risks and benefits.
+
+Symptoms:
+Rapidly deteriorating vision in the left eye over 12 months, significant glare and halation from oncoming headlights and bright lights, difficulty reading and performing close work, central posterior opacity on slit-lamp examination, reduced contrast sensitivity, and monocular diplopia on left eye testing.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Posterior subcapsular cataract of the left eye secondary to chronic corticosteroid therapy; BCVA 6/60 left eye.
+
+Procedure Performed: Left Phacoemulsification with Monofocal Intraocular Lens (IOL) Implantation.
+
+Anesthesia: Topical proxymetacaine 0.5% eye drops with supplementary intracameral lidocaine 1%. No sedation required. Patient cooperative and positioned in supine position.
+
+Intraoperative Findings: Dense posterior subcapsular opacity confirmed intraoperatively. Anterior capsule intact. Posterior subcapsular lens opacity — no nuclear sclerosis. Pupil well-dilated (7mm). Corneal clarity satisfactory. Zonular fibres intact.
+
+Surgical Technique: Temporal clear corneal incision (2.4mm). Paracentesis placed at 90°. Viscoelastic (sodium hyaluronate) injected into the anterior chamber. Continuous curvilinear capsulorhexis (CCC) performed (5.5mm diameter). Hydrodissection and hydrodelineation. Phacoemulsification performed with divide-and-conquer technique — low ultrasound energy required given predominantly soft lens. Lens cortex aspirated. Posterior capsule polished. Posterior chamber monofocal IOL (23.5 dioptres — calculated from biometry) inserted in capsular bag using injector. IOL centred and positioned. Wound self-sealing — no sutures required. Viscoelastic aspirated. Anterior chamber reformed with balanced salt solution.
+
+Estimated Blood Loss: Nil (ophthalmic procedure).
+
+Immediate Post-operative Condition: Patient sat up comfortably post-procedure. Visual acuity immediately post-op: 6/18 (expected initial acuity with corneal oedema). No intraoperative complications. Anterior chamber deep and formed. IOL well-centred.
+
+Complications:
+Mild post-operative corneal oedema on Day 1 — expected, managed with steroid and antibiotic eye drops; cleared by Day 3 with BCVA improving to 6/6. Mild photophobia for 48 hours post-operatively — managed with sunglasses. Transient rise in intraocular pressure (IOP 28 mmHg) on Day 1 — managed with topical dorzolamide; IOP normalised by Day 3. Patient counselled regarding risk of posterior capsule opacification (PCO) — YAG laser capsulotomy available if PCO develops. Risk of endophthalmitis discussed — patient advised to return urgently if eye becomes red, painful, or vision deteriorates suddenly.
+
+Recovery Plan:
+Routine recovery: 4–6 weeks. Eye shielding at night for 2 weeks. No eye rubbing or swimming for 4 weeks. Driving can resume once visual standards are met (typically Day 2–3 for monocular patients; advised to confirm with optometrist). Follow-up at 24 hours (Day 1), 1 week, and 6 weeks. Optometry refraction review at 8 weeks for spectacle prescription update. Right eye cataract screening scheduled given corticosteroid exposure. Diet: no restrictions. Vitamin C and E supplementation discussed for ocular health.
+
+Medications:
+1. Moxifloxacin 0.5% Eye Drops
+   Dosage: 1 drop
+   Frequency: Four times daily
+   Duration: 2 weeks
+   Status: Active
+
+2. Prednisolone 1% Eye Drops
+   Dosage: 1 drop
+   Frequency: Four times daily (tapering over 4 weeks)
+   Duration: 4 weeks
+   Status: Active
+
+3. Nepafenac 0.1% Eye Drops
+   Dosage: 1 drop
+   Frequency: Three times daily
+   Duration: 4 weeks
+   Status: Active
+
+4. Lisinopril 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.646485] Risk Score: 53.294605809128626 | Escalation: P2 | Pain: 7.0 | Symptoms: 5.0
+[2026-02-22 01:42:40.646401] Risk Score: 21.75933609958506 | Escalation: P3 | Pain: 4.0 | Symptoms: 1.0
+[2026-03-01 01:42:40.646266] Risk Score: 75.81742738589212 | Escalation: P1 | Pain: 3.0 | Symptoms: 4.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.837985] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.838114] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:41.033907
+Inactivity Level: High
+Reminder Count: 2
+
+==================================================
+PATIENT ID: 23
+Name: Grace Brown
+Age: 47
+Gender: Female
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Nuclear Sclerotic Cataract of the Right Eye with moderate-to-advanced opacity causing significant deterioration in distance vision, colour perception, and functional independence. The patient is an active professional whose visual demands include extended computer work and night driving, both severely impacted. Best-corrected visual acuity in the right eye: 6/36. Left eye unaffected with BCVA 6/6. Optical biometry completed. Patient counselled regarding lens options — premium multifocal IOL declined; monofocal distance-optimised IOL selected.
+
+Symptoms:
+Blurring of distance vision, yellow-brown discolouration of perceived colours, marked halos around lights, difficulty with night driving, and progressive reading difficulties despite recent spectacle prescription changes. Brunescent nuclear sclerosis confirmed on slit-lamp — Grade III according to LOCS III grading system.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Moderate-to-advanced nuclear sclerotic cataract right eye; BCVA 6/36; functional visual impairment.
+
+Procedure Performed: Right Phacoemulsification with Monofocal Aspheric IOL Implantation.
+
+Anesthesia: Topical anaesthesia with proxymetacaine 0.5% and intracameral preservative-free lidocaine 1%. Cooperative patient. No systemic sedation.
+
+Intraoperative Findings: Grade III nuclear sclerosis with brownish nuclear colouration. Anterior and posterior capsule intact. Zonular integrity confirmed. Pupil well-dilated to 7.5mm. Corneal clarity good.
+
+Surgical Technique: Temporal superior clear corneal incision (2.4mm). Capsulorhexis (5.5mm CCC). Hydrodissection. Phacoemulsification using stop-and-chop technique given denser nuclear sclerosis — moderate ultrasound energy required. Cortical aspiration completed. Posterior capsule polished. Aspheric monofocal IOL (22.0 dioptres) inserted in-bag with injector. IOL well-centred. Anterior chamber deepened; wound hydrated and confirmed self-sealing. No sutures required.
+
+Estimated Blood Loss: Nil.
+
+Immediate Post-operative Condition: Patient discharged from the day procedure unit in comfortable condition. BCVA at 4 hours post-op: 6/12 (expected early improvement limited by pupil constriction and mild corneal oedema). Patient provided with post-operative instructions and eye shield.
+
+Complications:
+Transient mild corneal striate keratopathy on Day 1 secondary to intraoperative ultrasound energy — managed with intensive lubricating and steroid eye drops; resolved by Day 4 with BCVA improving to 6/6. Mild foreign body sensation for 72 hours managed with preservative-free lubricating drops. Mild photophobia in the first week — resolved with sunglasses. Patient monitored for raised IOP — IOP stable at 15 mmHg on Day 1 review.
+
+Recovery Plan:
+Day procedure — discharged same day. Eye shield worn at night for 2 weeks. No bending, lifting, or eye rubbing for 2 weeks. No swimming for 4 weeks. Driving permitted once visual standards met — anticipated Day 2. Follow-up: Day 1 (clinic review), 1 week, and 6 weeks post-op. Optometry refraction at 8 weeks for updated spectacle prescription. Bilateral cataract monitoring recommended — left eye assessed at 6-week follow-up. Diet: no specific restrictions; antioxidant-rich diet (leafy vegetables, citrus fruits) encouraged for ocular health.
+
+Medications:
+1. Moxifloxacin 0.5% Eye Drops
+   Dosage: 1 drop
+   Frequency: Four times daily
+   Duration: 2 weeks
+   Status: Active
+
+2. Dexamethasone 0.1% Eye Drops
+   Dosage: 1 drop
+   Frequency: Four times daily (tapering over 3 weeks)
+   Duration: 3 weeks
+   Status: Active
+
+3. Ketorolac 0.5% Eye Drops
+   Dosage: 1 drop
+   Frequency: Three times daily
+   Duration: 4 weeks
+   Status: Active
+
+4. Losartan 50mg
+   Dosage: 50mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.649291] Risk Score: 43.21161825726141 | Escalation: P2 | Pain: 7.0 | Symptoms: 10.0
+[2026-02-22 01:42:40.649036] Risk Score: 32.68879668049793 | Escalation: P3 | Pain: 6.0 | Symptoms: 3.0
+[2026-03-01 01:42:40.648890] Risk Score: 52.36514522821577 | Escalation: P2 | Pain: 7.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.842567] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.843945] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:41.036694
+Inactivity Level: High
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 24
+Name: Ivan Wilson
+Age: 30
+Gender: Female
+Doctor: Dr. Michael Brown
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Bilateral Anterior Polar Cataracts with the left eye more significantly affected, causing disproportionate visual disability for age. The patient reports a congenital basis for the lens opacity, with accelerated progression over the preceding 18 months associated with sustained UV exposure and contact lens use. BCVA right eye: 6/9; left eye: 6/24. The left eye has been selected for surgical correction. Corneal topography normal bilaterally. No other anterior or posterior segment pathology on dilated fundus examination.
+
+Symptoms:
+Blurred vision predominantly affecting the left eye, difficulty performing close precision work, reduced contrast sensitivity, progressive glare and light sensitivity, and difficulty with night vision affecting the patient's professional duties. Slit-lamp confirms dense anterior polar opacity with cortical spoke changes extending towards the visual axis.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Anterior polar and cortical cataract left eye with visual axis involvement; BCVA 6/24; disproportionate visual impairment for age.
+
+Procedure Performed: Left Phacoemulsification with Posterior Chamber IOL Implantation.
+
+Anesthesia: Topical proxymetacaine 0.5% with intracameral lidocaine 1%. No sedation. Patient positioned comfortably in supine position.
+
+Intraoperative Findings: Anterior polar opacity adherent to the anterior capsule — high risk of anterior capsule tear at capsulorhexis. Cortical opacities extending to the nuclear zone. Zonular fibres intact. Well-dilated pupil (8mm). Posterior capsule clear. Cornea oedema-free and clear.
+
+Surgical Technique: Superior temporal clear corneal incision (2.2mm). Trypan blue dye injected to stain the anterior capsule for better visualisation given adherent polar opacity. Careful CCC (5.0mm) performed with cystotome — anterior polar opacity successfully excised within the CCC margin without capsular tear. Hydrodissection performed gently. Phacoemulsification with minimal ultrasound energy. Careful cortical aspiration with low aspiration settings near the posterior capsule. Aspheric IOL (24.5 dioptres) inserted in capsular bag. IOL centred. Wound sealed. Anterior chamber deepened.
+
+Estimated Blood Loss: Nil.
+
+Immediate Post-operative Condition: Patient discharged in good condition within 2 hours. BCVA at 2 hours: 6/12. Patient comfortable with minimal discomfort. Eye shield applied.
+
+Complications:
+Small posterior capsule rent at final cortical aspiration — managed intraoperatively with anterior vitrectomy and IOL placed in sulcus position; no vitreous prolapse to wound. BCVA at Day 1 satisfactory at 6/9 despite sulcus placement. Increased risk of posterior capsule opacification given intraoperative complication — monitoring at follow-up. Mild post-operative uveitis (anterior chamber flare) managed with intensified topical steroid regimen. IOP at Day 1 — 18 mmHg; satisfactory. No raised IOP or cystoid macular oedema on initial review.
+
+Recovery Plan:
+Day procedure — same-day discharge. Intensive post-operative follow-up given intraoperative complication: Day 1, Day 7, Week 4, and 3 months. OCT macula at 4 weeks to rule out cystoid macular oedema (CMO). YAG laser capsulotomy to be arranged if PCO develops during follow-up. No rubbing, swimming, or strenuous activity for 4 weeks. Driving resumed once BCVA meets legal standards — anticipated 1–2 weeks. Optometry refraction at 10 weeks. Right eye surgery to be considered at 3-month review. UV-protective eyewear advised permanently. Diet: antioxidant-rich diet; adequate hydration; omega-3 fatty acid supplementation for ocular surface health.
+
+Medications:
+1. Atorvastatin 10mg
+   Dosage: 10mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Moxifloxacin 0.5% Eye Drops
+   Dosage: 1 drop
+   Frequency: Four times daily
+   Duration: 3 weeks
+   Status: Active
+
+3. Prednisolone 1% Eye Drops (intensified regimen)
+   Dosage: 2 drops
+   Frequency: Every 2 hours for 3 days, then four times daily
+   Duration: 6 weeks (tapering)
+   Status: Active
+
+4. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Twice daily with food
+   Duration: 5 days (pain and anti-inflammatory cover)
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.651574] Risk Score: 43.19502074688796 | Escalation: P2 | Pain: 4.0 | Symptoms: 1.0
+[2026-02-22 01:42:40.651494] Risk Score: 92.47302904564316 | Escalation: P1 | Pain: 8.0 | Symptoms: 3.0
+[2026-03-01 01:42:40.651373] Risk Score: 7.800829875518672 | Escalation: P3 | Pain: 2.0 | Symptoms: 1.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.850409] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.850558] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-28 01:42:41.039490
+Inactivity Level: Low
+Reminder Count: 5
+
+==================================================
+PATIENT ID: 25
+Name: Bob Smith
+Age: 50
+Gender: Female
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Chronic Cholelithiasis with Acute-on-Chronic Cholecystitis. The patient presented with a 48-hour history of severe right upper quadrant pain, fever, and vomiting in the context of a 3-year history of recurrent biliary colic following fatty meals. Ultrasound confirmed multiple gallstones (largest 1.8cm) with gallbladder wall thickening (6mm), pericholecystic fluid, and a positive sonographic Murphy's sign. Liver enzymes mildly elevated (ALT 68 U/L, ALP 140 U/L). CBD diameter normal. No dilated intrahepatic ducts. WBC 16.8 × 10⁹/L.
+
+Symptoms:
+Severe right upper quadrant and epigastric pain (9/10) radiating to the right shoulder tip and scapula, associated with fever (38.7°C), nausea and three episodes of bilious vomiting, anorexia, post-prandial bloating, jaundice absent, and progressive intolerance to fatty meals over 3 years.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute cholecystitis superimposed on chronic cholelithiasis; no choledocholithiasis on USS.
+
+Procedure Performed: Laparoscopic Cholecystectomy — Four-Port Technique.
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g and Metronidazole 500mg administered pre-incision. Nasogastric tube inserted. Compression stockings applied.
+
+Intraoperative Findings: Markedly inflamed, tense gallbladder with oedematous wall and fibrinous adhesions to the omentum and adjacent bowel. Safe window of dissection achieved through critical view of safety (CVS). Cystic duct dilated (5mm) with a 6mm cystic duct stone at the confluence. Cystic artery identified and confirmed single. Common bile duct normal in calibre and not injured.
+
+Surgical Technique: Veress needle insufflation. Four trocars placed (10mm epigastric, 10mm umbilical, two 5mm). Adhesions divided with electrocautery. Gallbladder decompressed to improve handling. CVS achieved — cystic duct and cystic artery definitively identified and isolated. Intraoperative cholangiogram performed — no CBD stones identified. Cystic duct and cystic artery clipped (×3 each) and divided. Gallbladder dissected from the liver bed with hook electrocautery. Specimen retrieved in bag via 10mm epigastric port. Liver bed haemostasis confirmed with bipolar diathermy. Copious irrigation. Ports closed.
+
+Estimated Blood Loss: Approximately 30 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in stable condition. Pain adequately controlled. Haemodynamically stable. Temperature 37.2°C. Tolerating fluids at 2 hours post-op.
+
+Complications:
+Post-operative right shoulder tip pain secondary to CO2 gas — resolved within 24 hours with ambulation and analgesics. Mild post-operative nausea managed with ondansetron; resolved within 12 hours. Mild transient elevation of liver enzymes post-operatively expected following manipulation of the gallbladder and liver — resolved on repeat LFTs on Day 2. Port site bruising and discomfort at epigastric port — expected, resolving. No bile leak, biloma, or biliary injury identified. No evidence of choledocholithiasis on post-operative imaging review.
+
+Recovery Plan:
+Hospital stay: 2–3 days. Oral diet resumed 4–6 hours post-op, progressing from clear fluids to low-fat diet and normal diet by Day 2. Full ambulation from Day 1. Return to office work: 1–2 weeks. Return to manual work: 4 weeks. No heavy lifting for 4 weeks. Wound review at 7 days. Follow-up at 6 weeks. LFTs and CBD ultrasound at 6 weeks if liver enzymes not normalised. Diet: low-fat diet for 4 weeks transitioning to normal balanced diet; avoid fatty foods, fried items, and excessive alcohol indefinitely to manage biliary symptoms.
+
+Medications:
+1. Aspirin 75mg
+   Dosage: 75mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Ursodeoxycholic Acid 500mg
+   Dosage: 500mg
+   Frequency: Twice daily
+   Duration: 4 weeks (residual biliary support)
+   Status: Active
+
+3. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+4. Metformin 500mg
+   Dosage: 500mg
+   Frequency: Twice daily with meals
+   Duration: Ongoing
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.653866] Risk Score: 50.74688796680498 | Escalation: P2 | Pain: 8.0 | Symptoms: 9.0
+[2026-02-22 01:42:40.653755] Risk Score: 66.72199170124482 | Escalation: P2 | Pain: 4.0 | Symptoms: 10.0
+[2026-03-01 01:42:40.653613] Risk Score: 44.97095435684647 | Escalation: P2 | Pain: 3.0 | Symptoms: 5.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.854550] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.854695] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:41.045297
+Inactivity Level: Low
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 26
+Name: Alice Rodriguez
+Age: 55
+Gender: Male
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Suppurative Appendicitis in the context of an elongated appendix (measured 11cm on CT) with base location in the right iliac fossa and tip extending toward the pelvic brim, resulting in both right iliac fossa and right pelvic pain. CT abdomen confirmed appendix diameter of 11mm with marked periappendiceal fat stranding and a 7mm faecolith at the base. No perforation identified. WBC 15.6 × 10⁹/L. Background of hypertension — pre-operatively optimised.
+
+Symptoms:
+Progressive right iliac fossa and right pelvic pain (8/10) developing over 24 hours, associated fever (38.4°C), nausea and vomiting, anorexia, localised guarding in the right lower quadrant, positive Rovsing's sign, and elevated inflammatory markers (CRP 142 mg/L, WBC 15.6).
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute suppurative appendicitis with faecolith — elongated appendix with pelvic extension; no perforation.
+
+Procedure Performed: Laparoscopic Appendectomy — Three-Port Technique.
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g and Metronidazole 500mg administered pre-incision.
+
+Intraoperative Findings: Elongated, acutely inflamed appendix (approximately 10cm) with faecolith identified 2cm from the base. Appendix tip freely mobile in the pelvis — no adhesions. Mesoappendix thickened and vascular. Base healthy. No perforation. Minimal serous peritoneal fluid.
+
+Surgical Technique: 12mm umbilical port, 5mm right iliac fossa and suprapubic ports. Appendix identified and elevated to expose mesoappendix. Appendicular vessels divided with LigaSure haemostatic device. Three endoloops applied — two proximal, one distal to planned division point. Appendix divided and retrieved in a bag via 12mm port. Peritoneal cavity irrigated with 1L saline. Port sites closed. Skin subcuticular sutures.
+
+Estimated Blood Loss: Approximately 35 mL.
+
+Immediate Post-operative Condition: Stable. Haemodynamically intact. Temperature 37.8°C. Tolerating oral fluids at 2 hours post-op. Pain controlled with IV analgesia.
+
+Complications:
+Mild post-operative fever (37.9°C) on Day 1 — managed with antipyretics and oral antibiotics; resolved by Day 2. Port site discomfort managed with oral analgesia. Mild post-operative nausea (4 hours) — managed with IV ondansetron. Blood pressure monitoring maintained post-operatively given background hypertension — antihypertensive therapy continued uninterrupted. No wound infection or haematoma.
+
+Recovery Plan:
+Hospital stay: 2–3 days. Oral diet from 4 hours post-op. Full ambulation Day 1. Return to desk work: 1–2 weeks. Return to physical work: 4–6 weeks. Wound review at 7–10 days. Follow-up at 6 weeks. BP monitoring and antihypertensive review at 4-week GP appointment. Diet: balanced diet with adequate fibre. Low sodium diet for blood pressure management.
+
+Medications:
+1. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+2. Losartan 50mg
+   Dosage: 50mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+3. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 5 days
+   Status: Active
+
+4. Paracetamol 1000mg
+   Dosage: 1000mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.656279] Risk Score: 20.987551867219917 | Escalation: P3 | Pain: 9.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.656173] Risk Score: 28.373443983402485 | Escalation: P3 | Pain: 7.0 | Symptoms: 2.0
+[2026-03-01 01:42:40.655983] Risk Score: 34.232365145228215 | Escalation: P3 | Pain: 7.0 | Symptoms: 8.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.861831] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.861962] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:41.048731
+Inactivity Level: Medium
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 27
+Name: Frank Doe
+Age: 63
+Gender: Female
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Recurrent Acute Appendicitis — patient with a documented history of one prior episode of acute appendicitis managed conservatively with IV antibiotics 18 months ago (patient declined surgery at that time). Presented with second acute episode confirmed on CT abdomen demonstrating a dilated appendix (10mm diameter) with periappendiceal inflammation, a faecolith, and no perforation. Given recurrent nature and patient age, surgical appendectomy was recommended and accepted by the patient. Background of dyslipidaemia and Type 2 Diabetes Mellitus — both addressed perioperatively.
+
+Symptoms:
+Right iliac fossa pain (7/10), low-grade fever (38.0°C), nausea, mild anorexia, rebound tenderness at McBurney's point, elevated WBC (14.9 × 10⁹/L), and CRP 98 mg/L on admission. Alvarado score 8/10.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Recurrent acute appendicitis with faecolith; prior conservative management; no current perforation.
+
+Procedure Performed: Laparoscopic Appendectomy — Three-Port Technique.
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g and Metronidazole 500mg administered 30 minutes pre-incision. Pre-operative glucose optimisation performed — insulin sliding scale commenced.
+
+Intraoperative Findings: Acutely inflamed appendix with organised periappendiceal adhesions from prior inflammatory episode. Adhesions required careful division before appendix could be fully mobilised. Faecolith at the base confirmed. No perforation. Base of the appendix viable.
+
+Surgical Technique: Standard three-port laparoscopic approach. Adhesions divided bluntly and with careful use of energy device. Mesoappendix divided. Endoloops × 3 placed at base. Appendix excised and retrieved. Peritoneal cavity washed with 1L saline. Port sites closed.
+
+Estimated Blood Loss: Approximately 50 mL (slightly increased secondary to adhesion division).
+
+Immediate Post-operative Condition: Patient stable in PACU. Haemodynamically intact. Temperature 37.9°C — antipyretic given. Blood glucose 11.4 mmol/L — managed with insulin sliding scale. Tolerating oral fluids.
+
+Complications:
+Post-operative fever (38.5°C) on Day 1 and Day 2 — attributed to prior inflammatory adhesions and bacteraemia response; IV antibiotics continued for 48 hours then stepped down; fever resolved by Day 3. Post-operative hyperglycaemia managed with sliding scale insulin — stable by Day 2. Mild ileus on Day 1 (no flatus until Day 2) — managed with early ambulation; resolved spontaneously. Port site discomfort — managed with oral analgesia. Wound dehiscence risk elevated in diabetic patient — monitored daily with wound inspection.
+
+Recovery Plan:
+Hospital stay: 4–5 days given recurrent disease and comorbidities. Oral diet re-established Day 2. Full ambulation by Day 2. Blood glucose monitoring 4 times daily in hospital; self-monitoring at home. Return to desk work: 2–3 weeks. Return to physical activity: 6 weeks. Wound review at 10 days and 4 weeks given diabetic status. Follow-up at 6 weeks with HbA1c assessment. Lipid profile review at 3 months. Diet: diabetic diet; high-fibre; low-fat and low-sugar foods; adequate protein for wound healing.
+
+Medications:
+1. Atorvastatin 20mg
+   Dosage: 20mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Metformin 500mg
+   Dosage: 500mg
+   Frequency: Twice daily with meals
+   Duration: Ongoing
+   Status: Active
+
+3. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Three times daily
+   Duration: 7 days (step-down from IV antibiotics)
+   Status: Active
+
+4. Paracetamol 650mg
+   Dosage: 650mg
+   Frequency: Every 8 hours
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.660900] Risk Score: 35.1701244813278 | Escalation: P3 | Pain: 10.0 | Symptoms: 9.0
+[2026-02-22 01:42:40.660619] Risk Score: 11.867219917012449 | Escalation: P3 | Pain: 3.0 | Symptoms: 5.0
+[2026-03-01 01:42:40.659221] Risk Score: 69.02904564315352 | Escalation: P2 | Pain: 1.0 | Symptoms: 6.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.865158] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.865279] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:41.051462
+Inactivity Level: Medium
+Reminder Count: 3
+
+==================================================
+PATIENT ID: 28
+Name: Jane Martinez
+Age: 50
+Gender: Female
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Appendicitis — uncomplicated, identified on routine CT abdomen in a patient presenting with right iliac fossa pain at 6 hours post-symptom onset. CT confirmed a 9mm appendix with mild surrounding fat stranding and no perforation or faecolith. Early presentation enabled timely surgical intervention with low risk of complications.  Background of mild hypertension on lifestyle modification alone (no current medication). BMI 27.
+
+Symptoms:
+Progressive right iliac fossa pain (6/10) migrating from the periumbilical region, associated with loss of appetite, mild nausea, low-grade fever (37.8°C), right lower quadrant tenderness without peritonism, WBC 13.8 × 10⁹/L, and CRP 68 mg/L. Alvarado score 7/10. Pelvic ultrasound performed to exclude gynaecological pathology — unremarkable.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Acute, uncomplicated appendicitis — early presentation without perforation.
+
+Procedure Performed: Laparoscopic Appendectomy — Three-Port Technique.
+
+Anesthesia: General endotracheal anesthesia with LMA. IV Cefazolin 2g and Metronidazole 500mg administered pre-incision.
+
+Intraoperative Findings: Mildly to moderately inflamed appendix — serosal redness, mild congestion of the mesoappendix. No perforation. Small volume serous peritoneal fluid in the pelvis. Caecal base healthy. Pelvic organs normal. No incidental findings.
+
+Surgical Technique: Standard three-port laparoscopic approach. Appendix identified and elevated. Mesoappendix divided with LigaSure. Three endoloops applied at the base. Appendix divided and retrieved in specimen bag via umbilical port. Peritoneal cavity inspected and suctioned clear of serous fluid. Port sites closed with skin subcuticular sutures.
+
+Estimated Blood Loss: Approximately 20 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in excellent condition. Haemodynamically stable. Temperature 37.1°C. Tolerating oral fluids at 1 hour. Pain well-controlled with IV paracetamol.
+
+Complications:
+Mild post-operative nausea at 2 hours — managed with ondansetron 4mg IV; resolved within 30 minutes. Minimal port site discomfort — managed with oral paracetamol and ibuprofen. No fever, wound complications, or significant post-operative events identified. Routine, uncomplicated post-operative course. DVT risk low — compression stockings applied; early ambulation maintained.
+
+Recovery Plan:
+Hospital stay: 1–2 days. Oral diet commenced 3 hours post-op. Full mobilisation from Day 1. Return to sedentary work: 1 week. Return to full activity: 3–4 weeks. No heavy lifting for 3 weeks. Wound review at 7 days. Single outpatient follow-up at 4 weeks. Diet: normal balanced diet after discharge; avoid heavy meals for first 3 days. High-fibre intake encouraged. Adequate hydration.
+
+Medications:
+1. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 3 days
+   Status: Active
+
+2. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+3. Paracetamol 500mg
+   Dosage: 500mg
+   Frequency: Every 6 hours
+   Duration: 5 days
+   Status: Active
+
+4. Ondansetron 4mg
+   Dosage: 4mg
+   Frequency: As needed for nausea (maximum twice daily)
+   Duration: 2 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.664914] Risk Score: 31.02904564315353 | Escalation: P3 | Pain: 3.0 | Symptoms: 7.0
+[2026-02-22 01:42:40.664831] Risk Score: 14.215767634854773 | Escalation: P3 | Pain: 2.0 | Symptoms: 7.0
+[2026-03-01 01:42:40.664680] Risk Score: 61.593360995850624 | Escalation: P2 | Pain: 3.0 | Symptoms: 6.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.868347] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.868466] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:41.053306
+Inactivity Level: Low
+Reminder Count: 2
+
+==================================================
+PATIENT ID: 29
+Name: John Davis
+Age: 66
+Gender: Female
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Acute Complicated Appendicitis with appendicular abscess formation. Patient presented after 5 days of progressive right lower quadrant pain with delayed presentation due to self-medication and reluctance to seek medical care. CT abdomen revealed a perforated appendix with a well-defined periappendiceal abscess (6cm × 4cm) and no evidence of generalised peritonitis. Initial management with percutaneous abscess drainage was considered but surgical appendectomy with concomitant drainage was elected given clinical deterioration and patient preference.
+
+Symptoms:
+Severe right lower quadrant and flank pain (10/10), high fever (39.6°C), rigors, anorexia over 5 days, one episode of melaena (on examination determined to be dietary related), tachycardia (HR 108 bpm) on admission, WBC 22.4 × 10⁹/L, and CRP 412 mg/L. Clinical examination revealed a palpable tender right iliac fossa mass confirming phlegmonous appendicular abscess.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Complicated acute appendicitis with appendicular abscess formation — no generalised peritonitis; palpable right iliac fossa mass.
+
+Procedure Performed: Open Appendectomy with Periappendiceal Abscess Drainage (converted from intended laparoscopic due to abscess size and adhesion extent).
+
+Anesthesia: General endotracheal anesthesia. IV Piperacillin-Tazobactam 4.5g and Metronidazole 500mg commenced 8 hours prior to surgery. Full invasive monitoring with arterial line.
+
+Intraoperative Findings: Gross periappendiceal abscess with organised walls and approximately 80mL of frank pus. Appendix perforated at the tip with fibrinous adhesions to the caecum and adjacent ileum. Bowel viable. Generalised peritoneal soiling absent — contained abscess. Safe laparoscopic dissection not possible; open approach employed through right iliac fossa (Lanz) incision.
+
+Surgical Technique: Lanz incision. Abscess fully evacuated and drained. Appendix mobilised with careful adhesiolysis. Appendix resected — base healthy; closure with interrupted 2-0 vicryl sutures and Lembert inversion. Abscess cavity irrigated with 3L warm saline. Robinson drain placed in the abscess cavity. Wound partially closed — deep layers closed, subcutaneous space irrigated; skin closed loosely with interrupted nylon for delayed healing.
+
+Estimated Blood Loss: Approximately 150 mL. No transfusion required.
+
+Immediate Post-operative Condition: Patient transferred to Surgical HDU. Temperature 38.8°C. Haemodynamically stable on IV fluids. IV antibiotics continued. Drain output 35mL sanguinopurulent fluid in first hour. Pain managed with patient-controlled IV morphine analgesia.
+
+Complications:
+Prolonged post-operative fever (>38.5°C) for 72 hours managed with IV Piperacillin-Tazobactam; de-escalated on Day 4 based on drain culture results (E. coli — sensitive to cephalosporins). Wound healing managed with open technique — delayed primary closure performed at Day 7 following adequate granulation. Drain removed on Day 6 (output clear serous fluid). Post-operative ileus lasting 72 hours managed with NG decompression and early ambulation; full oral diet resumed Day 4. Elevated DVT risk managed with LMWH and compression. Wound dehiscence risk present given contaminated field — monitored daily. No intra-abdominal recurrence on post-operative CT at Day 10.
+
+Recovery Plan:
+Hospital stay: 10–14 days. HDU: 24–48 hours. Wound dressing changes twice daily. Delayed closure confirmed at Day 7–10. Full oral diet by Day 4. Ambulation by Day 2. Return to normal activity: 6–8 weeks. Return to work: 8–10 weeks. Wound review at 2 and 4 weeks post-discharge. Follow-up at 6 weeks with CT abdomen to confirm complete abscess resolution. Diet: high-protein, high-calorie diet to support wound healing. Probiotic supplementation following prolonged antibiotic therapy. Adequate hydration.
+
+Medications:
+1. Atorvastatin 20mg
+   Dosage: 20mg
+   Frequency: Once nightly
+   Duration: Ongoing
+   Status: Active
+
+2. Metformin 500mg
+   Dosage: 500mg
+   Frequency: Twice daily with meals
+   Duration: Ongoing
+   Status: Active
+
+3. Amoxicillin-Clavulanate 875mg
+   Dosage: 875mg
+   Frequency: Twice daily
+   Duration: 10 days (step-down from IV Pip-Tazo)
+   Status: Active
+
+4. Tramadol 50mg
+   Dosage: 50mg
+   Frequency: Every 8 hours as needed
+   Duration: 7 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.667102] Risk Score: 83.25311203319502 | Escalation: P1 | Pain: 10.0 | Symptoms: 3.0
+[2026-02-22 01:42:40.667016] Risk Score: 93.25311203319502 | Escalation: P1 | Pain: 8.0 | Symptoms: 8.0
+[2026-03-01 01:42:40.666890] Risk Score: 42.55601659751038 | Escalation: P2 | Pain: 6.0 | Symptoms: 2.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.871576] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.871699] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-27 01:42:41.054996
+Inactivity Level: Medium
+Reminder Count: 4
+
+==================================================
+PATIENT ID: 30
+Name: Peggy Wilson
+Age: 28
+Gender: Other
+Doctor: Dr. Lisa Anderson
+--------------------------------------------------
+MEDICAL OVERVIEW
+Medical Problem:
+Symptomatic Left-sided Spigelian Hernia — a rare abdominal wall hernia occurring at the semilunar line, confirmed on CT abdomen. The hernia defect measures 2.5cm and contains a loop of small bowel with recurrent intermittent incarceration over a 6-month period. This is the patient's first presentation requiring surgical intervention following increasing frequency and duration of incarceration episodes. No strangulation on imaging.
+
+Symptoms:
+Intermittent left lateral abdominal wall bulge, recurrent episodes of non-reducible swelling lasting 2–4 hours requiring positional manoeuvres for reduction, left lateral abdominal pain during episodes (rated 8/10), nausea during incarceration episodes, chronic dull intermittent left-sided abdominal ache between episodes, and mild post-prandial discomfort with distension.
+
+--------------------------------------------------
+SURGERY REPORT
+Summary:
+Pre-operative Diagnosis: Symptomatic left Spigelian hernia with recurrent incarceration — risk of strangulation; surgical repair indicated.
+
+Procedure Performed: Laparoscopic Transabdominal Preperitoneal (TAPP) Spigelian Hernia Repair with mesh.
+
+Anesthesia: General endotracheal anesthesia. IV Cefazolin 2g prophylaxis administered. Compression stockings applied given young patient and anatomical location of repair.
+
+Intraoperative Findings: 2.5cm × 2cm defect in the left semilunar line at the level of the arcuate line. Hernia sac containing a loop of small bowel — viable and easily reduced. Peritoneal sac reduced. Defect edges well-defined with adequate surrounding fascia for mesh fixation.
+
+Surgical Technique: 10mm umbilical port with CO2 insufflation. Two 5mm working ports. Peritoneum incised medially. Preperitoneal space developed. Hernia sac reduced. Hernia defect delineated. 10cm × 15cm lightweight polypropylene mesh positioned to completely cover the defect with 3cm overlap in all directions. Mesh fixed with absorbable tacks. Peritoneum closed with running 2-0 V-Loc suture. Port sites closed. Skin subcuticular sutures.
+
+Estimated Blood Loss: Minimal, approximately 20 mL.
+
+Immediate Post-operative Condition: Patient transferred to recovery in excellent condition. Haemodynamically stable. Pain mild and well-controlled. Tolerating oral fluids within 1 hour. Abdomen soft. Temperature normal.
+
+Complications:
+Post-operative fever (38.3°C) on Day 1 — consistent with mild atelectasis; managed with incentive spirometry and early ambulation; temperature normalised by Day 2. Mild post-operative shoulder-tip pain secondary to CO2 pneumoperitoneum — resolved within 24 hours with ambulation. Mild seroma at the repair site on Day 5 — managed conservatively; spontaneous resolution anticipated. Trocar site bruising — expected and resolving. DVT risk managed with compression stockings; pharmacological prophylaxis not indicated for short laparoscopic procedure in young patient.
+
+Recovery Plan:
+Hospital stay: 1–2 days. Oral diet from Day 1. Full ambulation same day as surgery. Return to light activity: 1 week. Return to exercise: 3–4 weeks. Return to strenuous physical work: 6 weeks. No heavy lifting for 6 weeks. Wound review at 7 days. Follow-up at 6 weeks. Ultrasound review at 3 months to confirm mesh position if clinically indicated. Patient counselled that Spigelian hernia repair has excellent outcomes with laparoscopic mesh repair (recurrence rate <2%). Diet: high-fibre diet; adequate hydration. Avoid straining and constipation during recovery. Gradual reintroduction of exercise under physiotherapy guidance.
+
+Medications:
+1. Lisinopril 5mg
+   Dosage: 5mg
+   Frequency: Once daily
+   Duration: Ongoing
+   Status: Active
+
+2. Ibuprofen 400mg
+   Dosage: 400mg
+   Frequency: Three times daily with food
+   Duration: 5 days
+   Status: Active
+
+3. Paracetamol 500mg
+   Dosage: 500mg
+   Frequency: Every 6 hours
+   Duration: 7 days
+   Status: Active
+
+4. Amoxicillin-Clavulanate 625mg
+   Dosage: 625mg
+   Frequency: Twice daily
+   Duration: 3 days
+   Status: Active
+
+--------------------------------------------------
+RISK LOGS
+[2026-02-15 01:42:40.669229] Risk Score: 76.75518672199169 | Escalation: P1 | Pain: 10.0 | Symptoms: 9.0
+[2026-02-22 01:42:40.669151] Risk Score: 11.03734439834025 | Escalation: P3 | Pain: 2.0 | Symptoms: 7.0
+[2026-03-01 01:42:40.669028] Risk Score: 26.863070539419088 | Escalation: P3 | Pain: 7.0 | Symptoms: 7.0
+
+--------------------------------------------------
+MESSAGES
+[2026-02-28 01:42:40.874760] Patient: I have been feeling a bit dizzy today.
+[2026-02-28 01:47:40.874886] Bot: I've noted that. Please rest and drink water. I will notify your doctor if it persists.
+
+--------------------------------------------------
+ENGAGEMENT
+Last Response: 2026-02-26 01:42:41.056980
+Inactivity Level: Low
+Reminder Count: 4
