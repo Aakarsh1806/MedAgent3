@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { useApp } from '../../context/AppContext';
 import { getRiskLevel, INACTIVITY_LEVELS } from '../../config/riskThresholds';
 import RiskGauge from './RiskGauge';
@@ -5,7 +6,8 @@ import RiskBars from './RiskBars';
 import RecoveryChart from './RecoveryChart';
 import AdherenceHeatmap from './AdherenceHeatmap';
 import BotChat from './BotChat';
-import MedicationTracker from './MedicationTracker';
+import MedicationTracker from './MedicationTracker'; // Kept as fallback if needed for route
+import MedicationsModal from './MedicationsModal';
 import { UserRound, Send } from 'lucide-react';
 import clsx from 'clsx';
 
@@ -23,13 +25,14 @@ import clsx from 'clsx';
 //   replaces the button. This is purely additive â no existing JSX was modified.
 
 const TABS = [
-  { id: 'overview',    label: 'Overview'    },
-  { id: 'chat',        label: 'Bot Chat'    },
+  { id: 'overview', label: 'Overview' },
+  { id: 'chat', label: 'Bot Chat' },
   { id: 'medications', label: 'Medications' },
 ];
 
 export default function PatientDetailPanel() {
   const { selectedPatient, activeTab, setActiveTab, nudgedPatients, sendNudge } = useApp();
+  const [isMedModalOpen, setIsMedModalOpen] = useState(false);
 
   if (!selectedPatient) {
     return (
@@ -56,8 +59,8 @@ export default function PatientDetailPanel() {
           <div className={clsx(
             'w-12 h-12 rounded-2xl flex items-center justify-center text-xl font-bold text-white',
             selectedPatient.riskScore >= 80 ? 'bg-critical' :
-            selectedPatient.riskScore >= 60 ? 'bg-high-risk' :
-            selectedPatient.riskScore >= 40 ? 'bg-moderate' : 'bg-stable'
+              selectedPatient.riskScore >= 60 ? 'bg-high-risk' :
+                selectedPatient.riskScore >= 40 ? 'bg-moderate' : 'bg-stable'
           )}>
             {selectedPatient.name.charAt(0)}
           </div>
@@ -113,10 +116,16 @@ export default function PatientDetailPanel() {
         {TABS.map(tab => (
           <button
             key={tab.id}
-            onClick={() => setActiveTab(tab.id)}
+            onClick={() => {
+              if (tab.id === 'medications') {
+                setIsMedModalOpen(true);
+              } else {
+                setActiveTab(tab.id);
+              }
+            }}
             className={clsx(
               'flex-1 flex items-center justify-center py-2 px-3 rounded-lg text-xs font-semibold transition-all duration-200',
-              activeTab === tab.id
+              (activeTab === tab.id && tab.id !== 'medications') || (isMedModalOpen && tab.id === 'medications')
                 ? 'bg-white text-gray-900 shadow-sm'
                 : 'text-gray-500 hover:text-gray-700'
             )}
@@ -158,12 +167,20 @@ export default function PatientDetailPanel() {
           </div>
         )}
 
-        {activeTab === 'medications' && (
+        {activeTab === 'medications' && !isMedModalOpen && (
           <div className="animate-fade-in">
             <MedicationTracker patient={selectedPatient} />
           </div>
         )}
       </div>
+
+      {/* Medications Modal Overlay */}
+      {isMedModalOpen && (
+        <MedicationsModal
+          patientId={selectedPatient.id}
+          onClose={() => setIsMedModalOpen(false)}
+        />
+      )}
     </div>
   );
 }

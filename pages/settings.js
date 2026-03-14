@@ -178,7 +178,7 @@ export default function SettingsPage() {
         <SectionCard title="Demo Mode">
           <Toggle
             label="Enable demo mode"
-            description="Show demo buttons (Trigger Critical, Simulate Recovery) in the header"
+            // description for demo buttons removed
             checked={demoMode}
             onChange={setDemoMode}
           />

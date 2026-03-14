@@ -11,6 +11,7 @@ export function PatientProvider({ children }) {
 
   // whenever the selected doctor changes we "fetch" patient list
   useEffect(() => {
+    if (typeof window === "undefined") return;
     if (!selectedDoctor) {
       setPatients([]);
       setSelectedPatientId(null);

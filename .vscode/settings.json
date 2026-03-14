@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./medagent-backend"
+    ],
+    "python.defaultInterpreterPath": "${workspaceFolder}/medagent-backend/venv/Scripts/python.exe"
+}

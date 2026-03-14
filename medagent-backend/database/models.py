@@ -62,6 +62,13 @@ class Patient(Base):
         cascade="all, delete-orphan",
     )
 
+    surgery_report = relationship(
+        "SurgeryReport",
+        back_populates="patient",
+        uselist=False,
+        cascade="all, delete-orphan",
+    )
+
     medications = relationship(
         "Medication",
         back_populates="patient",
@@ -103,6 +110,26 @@ class Surgery(Base):
     notes = Column(Text, nullable=True)
 
     patient = relationship("Patient", back_populates="surgeries")
+
+
+# =========================
+# Surgery Report Model
+# =========================
+class SurgeryReport(Base):
+    __tablename__ = "surgery_reports"
+
+    id = Column(Integer, primary_key=True, index=True)
+    patient_id = Column(Integer, ForeignKey("patients.id"), unique=True, nullable=False)
+
+    medical_problem = Column(Text, nullable=True)
+    symptoms = Column(Text, nullable=True)
+    report_summary = Column(Text, nullable=True)
+    complications = Column(Text, nullable=True)
+    recovery_plan = Column(Text, nullable=True)
+
+    created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
+
+    patient = relationship("Patient", back_populates="surgery_report")
 
 
 # =========================

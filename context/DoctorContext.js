@@ -1,12 +1,10 @@
 import { createContext, useContext, useState, useEffect } from 'react';
-import { useRouter } from 'next/router';
 
 const DoctorContext = createContext(null);
 
 export function DoctorProvider({ children }) {
   const [doctors, setDoctors] = useState([]);
   const [selectedDoctor, setSelectedDoctor] = useState(null);
-  const router = useRouter();
 
   // load list of doctors from backend
   useEffect(() => {
@@ -38,14 +36,6 @@ export function DoctorProvider({ children }) {
       }
     }
   }, [selectedDoctor]);
-
-  // redirect to selection page if none chosen
-  useEffect(() => {
-    if (typeof window === 'undefined') return;
-    if (!selectedDoctor && router.pathname !== '/select-doctor') {
-      router.replace('/select-doctor');
-    }
-  }, [selectedDoctor, router.pathname]);
 
   const selectDoctor = doc => {
     setSelectedDoctor(doc);
